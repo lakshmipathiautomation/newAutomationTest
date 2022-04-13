@@ -1,0 +1,29 @@
+Jan 03,2022 18:16:15 [info]  Login verified successfully.
+Jan 03,2022 18:21:22 [info]  Login verified successfully.
+Jan 03,2022 18:26:06 [info]  Login verified successfully.
+Jan 03,2022 19:18:22 [info]  Entered username as nakhter@qa.local
+Jan 03,2022 19:19:11 [info]  Entered username as nakhter@qa.local
+Jan 03,2022 19:19:13 [info]  Entered password as Arexdata1!
+Jan 03,2022 19:19:13 [info]  Clicked on login button
+Jan 03,2022 19:19:18 [info]  Login verified successfully.
+Jan 03,2022 19:20:30 [info]  Entered username as nakhter@qa.local
+Jan 03,2022 19:20:32 [info]  Entered password as Arexdata1!
+Jan 03,2022 19:20:32 [info]  Clicked on login button
+Jan 03,2022 19:20:35 [info]  Login verified successfully.
+Jan 03,2022 19:20:42 [info]  Clicked on create alert button
+Jan 03,2022 19:20:44 [info]  Alert name entered.
+Jan 03,2022 19:20:52 [info]  Email entered.
+Jan 03,2022 19:20:54 [info]  Enter file/folder
+Jan 03,2022 19:22:55 [info]  Entered username as nakhter@qa.local
+Jan 03,2022 19:22:57 [info]  Entered password as Arexdata1!
+Jan 03,2022 19:22:57 [info]  Clicked on login button
+Jan 03,2022 19:23:00 [info]  Login verified successfully.
+Jan 03,2022 19:23:08 [info]  Clicked on create alert button
+Jan 03,2022 19:23:09 [info]  Alert name entered.
+Jan 03,2022 19:23:18 [info]  Email entered.
+Jan 03,2022 19:23:19 [info]  Enter file/folder
+Jan 03,2022 20:12:42 [info]  Entered username as nakhter@qa.local
+Jan 03,2022 20:15:45 [info]  Entered username as nakhter@qa.local
+Jan 03,2022 20:16:59 [info]  Clicked on create alert button
+Jan 03,2022 20:19:04 [info]  Clicked on create alert button
+Jan 03,2022 20:42:39 [info]  Entered username as nakhter@qa.local

@@ -1,0 +1,507 @@
+Jan 10,2022 12:50:33 [info]  Clicked on Filter Icon
+Jan 10,2022 12:50:34 [info]  User has clicked on dropdown field: //label[text()='Integration']/following-sibling::div//span[@class='k-input']
+Jan 10,2022 12:50:34 [info]  User has selected dropdown option: //li[text()='Contains']
+Jan 10,2022 12:50:40 [info]  User has clicked on dropdown field: //label[text()='Integration']/..//input
+Jan 10,2022 12:50:43 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 12:50:46 [info]  User verified number of applied filter : 1
+Jan 10,2022 12:50:54 [info]  Clicked on Filter Icon
+Jan 10,2022 12:50:57 [info]  Clicked on 'CLEAR' button at Filter Dialog
+Jan 10,2022 12:51:00 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 12:52:56 [info]  Clicked on Filter Icon
+Jan 10,2022 12:52:58 [info]  User has clicked on dropdown field: //label[text()='Integration']/following-sibling::div//span[@class='k-input']
+Jan 10,2022 12:52:58 [info]  User has selected dropdown option: //li[text()='Equals']
+Jan 10,2022 12:53:03 [info]  User has clicked on dropdown field: //label[text()='Integration']/..//input
+Jan 10,2022 12:53:06 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 12:53:10 [info]  User verified number of applied filter : 1
+Jan 10,2022 12:53:20 [info]  Jan 10,2022 12:53:20 [info]  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Error message >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:99)
+	at org.testng.Assert.failNotEquals(Assert.java:1037)
+	at org.testng.Assert.assertTrue(Assert.java:45)
+	at org.testng.Assert.assertTrue(Assert.java:55)
+	at tests.AdminAlertTest.testUserIsAbleToFilterAlertEqualsToNetAppQAInIntegrators(AdminAlertTest.java:1627)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:794)
+	at org.testng.TestRunner.run(TestRunner.java:596)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+	at org.testng.TestNG.runSuites(TestNG.java:1063)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+Jan 10,2022 12:53:23 [info]  Clicked on Filter Icon
+Jan 10,2022 12:53:26 [info]  Clicked on 'CLEAR' button at Filter Dialog
+Jan 10,2022 12:53:29 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 12:54:57 [info]  Clicked on Filter Icon
+Jan 10,2022 12:54:58 [info]  User has clicked on dropdown field: //label[text()='Integration']/following-sibling::div//span[@class='k-input']
+Jan 10,2022 12:54:58 [info]  User has selected dropdown option: //li[text()='Equals']
+Jan 10,2022 12:55:04 [info]  User has clicked on dropdown field: //label[text()='Integration']/..//input
+Jan 10,2022 12:55:07 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 12:55:10 [info]  User verified number of applied filter : 1
+Jan 10,2022 12:55:18 [info]  Clicked on Filter Icon
+Jan 10,2022 12:55:21 [info]  Clicked on 'CLEAR' button at Filter Dialog
+Jan 10,2022 12:55:24 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 13:05:33 [info]  Clicked on Filter Icon
+Jan 10,2022 13:05:34 [info]  User has clicked on dropdown field: //label[text()='Integration']/following-sibling::div//span[@class='k-input']
+Jan 10,2022 13:05:34 [info]  User has selected dropdown option: //li[text()='Equals']
+Jan 10,2022 13:05:39 [info]  User has clicked on dropdown field: //label[text()='Integration']/..//input
+Jan 10,2022 13:05:43 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 13:05:46 [info]  User verified number of applied filter : 1
+Jan 10,2022 13:05:52 [info]  Clicked on Filter Icon
+Jan 10,2022 13:05:55 [info]  Clicked on 'CLEAR' button at Filter Dialog
+Jan 10,2022 13:05:58 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 13:15:00 [info]  Clicked on Filter Icon
+Jan 10,2022 13:15:02 [info]  User has clicked on dropdown field: //label[text()='Integration']/following-sibling::div//span[@class='k-input']
+Jan 10,2022 13:15:02 [info]  User has selected dropdown option: //li[text()='Start With']
+Jan 10,2022 13:15:07 [info]  User has clicked on dropdown field: //label[text()='Integration']/..//input
+Jan 10,2022 13:15:10 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 13:15:13 [info]  User verified number of applied filter : 1
+Jan 10,2022 13:15:21 [info]  Clicked on Filter Icon
+Jan 10,2022 13:15:24 [info]  Clicked on 'CLEAR' button at Filter Dialog
+Jan 10,2022 13:15:27 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 13:17:08 [info]  Clicked on Filter Icon
+Jan 10,2022 13:17:09 [info]  User has clicked on dropdown field: //label[text()='Integration']/following-sibling::div//span[@class='k-input']
+Jan 10,2022 13:17:10 [info]  User has selected dropdown option: //li[text()='Start With']
+Jan 10,2022 13:17:15 [info]  User has clicked on dropdown field: //label[text()='Integration']/..//input
+Jan 10,2022 13:17:18 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 13:17:21 [info]  User verified number of applied filter : 1
+Jan 10,2022 13:17:29 [info]  Clicked on Filter Icon
+Jan 10,2022 13:17:32 [info]  Clicked on 'CLEAR' button at Filter Dialog
+Jan 10,2022 13:17:35 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 13:31:29 [info]  Clicked on Filter Icon
+Jan 10,2022 13:31:30 [info]  User has clicked on dropdown field: //label[text()='Severity']/following-sibling::div//span[@class='k-input']
+Jan 10,2022 13:31:31 [info]  User has selected dropdown option: //li[text()='All']
+Jan 10,2022 13:31:35 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 13:31:58 [info]  Jan 10,2022 13:31:58 [info]  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Error message >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+java.lang.NumberFormatException: For input string: ""
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Integer.parseInt(Integer.java:678)
+	at java.base/java.lang.Integer.parseInt(Integer.java:786)
+	at pages.FilterDialogPage.assertNumberOnFilterButton(FilterDialogPage.java:60)
+	at tests.AdminAlertTest.testUserIsAbleToFilterAlertBySeverityAsAll(AdminAlertTest.java:1759)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:794)
+	at org.testng.TestRunner.run(TestRunner.java:596)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+	at org.testng.TestNG.runSuites(TestNG.java:1063)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+Jan 10,2022 13:32:01 [info]  Clicked on Filter Icon
+Jan 10,2022 13:32:04 [info]  Clicked on 'CLEAR' button at Filter Dialog
+Jan 10,2022 13:32:07 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 13:33:26 [info]  Clicked on Filter Icon
+Jan 10,2022 13:33:28 [info]  User has clicked on dropdown field: //label[text()='Severity']/following-sibling::div//span[@class='k-input']
+Jan 10,2022 13:33:28 [info]  User has selected dropdown option: //li[text()='All']
+Jan 10,2022 13:33:32 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 13:33:33 [info]  Jan 10,2022 13:33:33 [info]  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Error message >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:99)
+	at org.testng.Assert.failNotEquals(Assert.java:1037)
+	at org.testng.Assert.assertTrue(Assert.java:45)
+	at org.testng.Assert.assertTrue(Assert.java:55)
+	at pages.Admin_AlertsPage.assertValuesInColumns(Admin_AlertsPage.java:198)
+	at tests.AdminAlertTest.testUserIsAbleToFilterAlertBySeverityAsAll(AdminAlertTest.java:1757)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:794)
+	at org.testng.TestRunner.run(TestRunner.java:596)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+	at org.testng.TestNG.runSuites(TestNG.java:1063)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+Jan 10,2022 13:33:37 [info]  Clicked on Filter Icon
+Jan 10,2022 13:33:40 [info]  Clicked on 'CLEAR' button at Filter Dialog
+Jan 10,2022 13:33:43 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 13:52:27 [info]  Clicked on Filter Icon
+Jan 10,2022 13:52:28 [info]  User has clicked on dropdown field: //label[text()='Name']/following-sibling::div//span[@class='k-input']
+Jan 10,2022 13:52:28 [info]  User has selected dropdown option: //li[text()='Contains']
+Jan 10,2022 13:52:34 [info]  User has clicked on dropdown field: //label[text()='Name']/..//input
+Jan 10,2022 13:52:35 [info]  User has clicked on dropdown field: //label[text()='Type']/following-sibling::div//span[@class='k-input']
+Jan 10,2022 13:52:35 [info]  User has selected dropdown option: //li[text()='Activity Less Than X Hours']
+Jan 10,2022 13:52:37 [info]  User has clicked on dropdown field: //label[text()='Integration']/following-sibling::div//span[@class='k-input']
+Jan 10,2022 13:52:37 [info]  User has selected dropdown option: //li[text()='Contains']
+Jan 10,2022 13:52:43 [info]  User has clicked on dropdown field: //label[text()='Integration']/..//input
+Jan 10,2022 13:52:46 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 13:52:49 [info]  User verified number of applied filter : 3
+Jan 10,2022 13:53:29 [info]  Clicked on Filter Icon
+Jan 10,2022 13:53:32 [info]  Clicked on 'CLEAR' button at Filter Dialog
+Jan 10,2022 13:53:35 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 16:01:04 [info]  Clicked on delete button to delete alert
+Jan 10,2022 16:15:57 [info]  Clicked on delete button to delete alert
+Jan 10,2022 16:20:35 [info]  Clicked on delete button to delete alert
+Jan 10,2022 16:59:10 [info]  Clicked on delete button to delete alert
+Jan 10,2022 16:59:38 [info]  Clicked on delete button to delete alert
+Jan 10,2022 17:00:05 [info]  Clicked on delete button to delete alert
+Jan 10,2022 17:00:27 [info]  Enter file/folder
+Jan 10,2022 17:00:31 [info]  Operation is selected asf Deleted
+Jan 10,2022 17:00:38 [info]  Clicked on delete button to delete alert
+Jan 10,2022 17:01:01 [info]  Enter file/folder
+Jan 10,2022 17:01:04 [info]  Operation is selected asf Read
+Jan 10,2022 17:01:11 [info]  Clicked on delete button to delete alert
+Jan 10,2022 17:01:33 [info]  Enter file/folder
+Jan 10,2022 17:01:36 [info]  Operation is selected asf Created
+Jan 10,2022 17:01:44 [info]  Clicked on delete button to delete alert
+Jan 10,2022 17:02:06 [info]  Enter file/folder
+Jan 10,2022 17:02:09 [info]  Operation is selected asf Modified
+Jan 10,2022 17:02:17 [info]  Clicked on delete button to delete alert
+Jan 10,2022 17:02:43 [info]  Enter file/folder
+Jan 10,2022 17:02:46 [info]  Operation is selected asf Deleted
+Jan 10,2022 17:02:53 [info]  Clicked on delete button to delete alert
+Jan 10,2022 17:03:19 [info]  Enter file/folder
+Jan 10,2022 17:03:23 [info]  Operation is selected asf Read
+Jan 10,2022 17:03:30 [info]  Clicked on delete button to delete alert
+Jan 10,2022 17:03:55 [info]  Enter file/folder
+Jan 10,2022 17:03:59 [info]  Operation is selected asf Created
+Jan 10,2022 17:04:05 [info]  Clicked on delete button to delete alert
+Jan 10,2022 17:04:32 [info]  Enter file/folder
+Jan 10,2022 17:04:35 [info]  Operation is selected asf Modified
+Jan 10,2022 17:04:42 [info]  Clicked on delete button to delete alert
+Jan 10,2022 17:05:08 [info]  Enter file/folder
+Jan 10,2022 17:05:11 [info]  Operation is selected asf Uploaded
+Jan 10,2022 17:05:18 [info]  Clicked on delete button to delete alert
+Jan 10,2022 17:05:45 [info]  Enter file/folder
+Jan 10,2022 17:05:48 [info]  Operation is selected asf Deleted
+Jan 10,2022 17:05:55 [info]  Clicked on delete button to delete alert
+Jan 10,2022 17:06:21 [info]  Enter file/folder
+Jan 10,2022 17:06:24 [info]  Operation is selected asf Read
+Jan 10,2022 17:06:31 [info]  Clicked on delete button to delete alert
+Jan 10,2022 17:06:58 [info]  Enter file/folder
+Jan 10,2022 17:07:01 [info]  Operation is selected asf Modified
+Jan 10,2022 17:07:08 [info]  Clicked on delete button to delete alert
+Jan 10,2022 17:07:34 [info]  Enter file/folder
+Jan 10,2022 17:07:37 [info]  Operation is selected asf Renamed
+Jan 10,2022 17:07:44 [info]  Clicked on delete button to delete alert
+Jan 10,2022 17:08:05 [info]  Enter file/folder
+Jan 10,2022 17:08:09 [info]  Operation is selected asf Renamed
+Jan 10,2022 17:08:16 [info]  Clicked on delete button to delete alert
+Jan 10,2022 17:08:41 [info]  Enter file/folder
+Jan 10,2022 17:08:44 [info]  Operation is selected asf Deleted
+Jan 10,2022 17:08:51 [info]  Clicked on delete button to delete alert
+Jan 10,2022 17:09:17 [info]  Enter file/folder
+Jan 10,2022 17:09:20 [info]  Operation is selected asf Read
+Jan 10,2022 17:09:27 [info]  Clicked on delete button to delete alert
+Jan 10,2022 17:09:53 [info]  Enter file/folder
+Jan 10,2022 17:09:56 [info]  Operation is selected asf Created
+Jan 10,2022 17:10:03 [info]  Clicked on delete button to delete alert
+Jan 10,2022 17:10:28 [info]  Enter file/folder
+Jan 10,2022 17:10:32 [info]  Operation is selected asf Modified
+Jan 10,2022 17:10:38 [info]  Clicked on delete button to delete alert
+Jan 10,2022 17:10:48 [info]  Clicked on Filter Icon
+Jan 10,2022 17:10:49 [info]  User has clicked on dropdown field: //label[text()='Name']/following-sibling::div//span[@class='k-input']
+Jan 10,2022 17:10:49 [info]  User has selected dropdown option: //li[text()='Contains']
+Jan 10,2022 17:10:54 [info]  User has clicked on dropdown field: //label[text()='Name']/..//input
+Jan 10,2022 17:10:57 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 17:11:00 [info]  User verified number of applied filter : 1
+Jan 10,2022 17:11:01 [info]  Verified that 'Testing Netapp read' contains : 'Netapp' under the column : 'Name
+Jan 10,2022 17:11:02 [info]  Verified that 'Testing Netapp Deleted' contains : 'Netapp' under the column : 'Name
+Jan 10,2022 17:11:02 [info]  Verified that 'Testing Netapp Modified' contains : 'Netapp' under the column : 'Name
+Jan 10,2022 17:11:02 [info]  Verified that 'Testing Netapp renamed' contains : 'Netapp' under the column : 'Name
+Jan 10,2022 17:11:02 [info]  Verified that 'TestingNetappcreatedNew' contains : 'Netapp' under the column : 'Name
+Jan 10,2022 17:11:08 [info]  Clicked on Filter Icon
+Jan 10,2022 17:11:11 [info]  Clicked on 'CLEAR' button at Filter Dialog
+Jan 10,2022 17:11:14 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 17:11:18 [info]  Clicked on Filter Icon
+Jan 10,2022 17:11:19 [info]  User has clicked on dropdown field: //label[text()='Name']/following-sibling::div//span[@class='k-input']
+Jan 10,2022 17:11:19 [info]  User has selected dropdown option: //li[text()='Equals']
+Jan 10,2022 17:11:24 [info]  User has clicked on dropdown field: //label[text()='Name']/..//input
+Jan 10,2022 17:11:27 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 17:11:30 [info]  User verified number of applied filter : 1
+Jan 10,2022 17:11:32 [info]  Verified that 'WinFileServer_Create' contains : 'WinFileServer_Create' under the column : 'Name
+Jan 10,2022 17:11:38 [info]  Clicked on Filter Icon
+Jan 10,2022 17:11:41 [info]  Clicked on 'CLEAR' button at Filter Dialog
+Jan 10,2022 17:11:44 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 17:11:48 [info]  Clicked on Filter Icon
+Jan 10,2022 17:11:49 [info]  User has clicked on dropdown field: //label[text()='Name']/following-sibling::div//span[@class='k-input']
+Jan 10,2022 17:11:49 [info]  User has selected dropdown option: //li[text()='Start With']
+Jan 10,2022 17:11:54 [info]  User has clicked on dropdown field: //label[text()='Name']/..//input
+Jan 10,2022 17:11:57 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 17:12:00 [info]  User verified number of applied filter : 1
+Jan 10,2022 17:12:01 [info]  Verified that 'WinFileServer_Create' contains : 'WinFileServer_Create' under the column : 'Name
+Jan 10,2022 17:12:08 [info]  Clicked on Filter Icon
+Jan 10,2022 17:12:11 [info]  Clicked on 'CLEAR' button at Filter Dialog
+Jan 10,2022 17:12:14 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 17:12:17 [info]  Clicked on Filter Icon
+Jan 10,2022 17:12:18 [info]  User has clicked on dropdown field: //label[text()='Type']/following-sibling::div//span[@class='k-input']
+Jan 10,2022 17:12:18 [info]  User has selected dropdown option: //li[text()='Activity Less Than X Hours']
+Jan 10,2022 17:12:23 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 17:12:26 [info]  User verified number of applied filter : 1
+Jan 10,2022 17:12:27 [info]  Verified that 'Activity Less Than X Hours' contains : 'Activity Less Than X Hours' under the column : 'Type
+Jan 10,2022 17:12:27 [info]  Verified that 'Activity Less Than X Hours' contains : 'Activity Less Than X Hours' under the column : 'Type
+Jan 10,2022 17:12:33 [info]  Clicked on Filter Icon
+Jan 10,2022 17:12:36 [info]  Clicked on 'CLEAR' button at Filter Dialog
+Jan 10,2022 17:12:39 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 17:12:43 [info]  Clicked on Filter Icon
+Jan 10,2022 17:12:44 [info]  User has clicked on dropdown field: //label[text()='Type']/following-sibling::div//span[@class='k-input']
+Jan 10,2022 17:12:44 [info]  User has selected dropdown option: //li[text()='File operation on agents']
+Jan 10,2022 17:12:48 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 17:12:51 [info]  User verified number of applied filter : 1
+Jan 10,2022 17:12:52 [info]  Verified that 'File operation on agents' contains : 'File operation on agents' under the column : 'Type
+Jan 10,2022 17:12:52 [info]  Verified that 'File operation on agents' contains : 'File operation on agents' under the column : 'Type
+Jan 10,2022 17:12:52 [info]  Verified that 'File operation on agents' contains : 'File operation on agents' under the column : 'Type
+Jan 10,2022 17:12:52 [info]  Verified that 'File operation on agents' contains : 'File operation on agents' under the column : 'Type
+Jan 10,2022 17:12:52 [info]  Verified that 'File operation on agents' contains : 'File operation on agents' under the column : 'Type
+Jan 10,2022 17:12:52 [info]  Verified that 'File operation on agents' contains : 'File operation on agents' under the column : 'Type
+Jan 10,2022 17:12:59 [info]  Clicked on Filter Icon
+Jan 10,2022 17:13:02 [info]  Clicked on 'CLEAR' button at Filter Dialog
+Jan 10,2022 17:13:05 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 17:13:08 [info]  Clicked on Filter Icon
+Jan 10,2022 17:13:10 [info]  User has clicked on dropdown field: //label[text()='Type']/following-sibling::div//span[@class='k-input']
+Jan 10,2022 17:13:10 [info]  User has selected dropdown option: //li[text()='File operation on integrators']
+Jan 10,2022 17:13:14 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 17:13:17 [info]  User verified number of applied filter : 1
+Jan 10,2022 17:13:18 [info]  Verified that 'File operation on integrators' contains : 'File operation on integrators' under the column : 'Type
+Jan 10,2022 17:13:18 [info]  Verified that 'File operation on integrators' contains : 'File operation on integrators' under the column : 'Type
+Jan 10,2022 17:13:18 [info]  Verified that 'File operation on integrators' contains : 'File operation on integrators' under the column : 'Type
+Jan 10,2022 17:13:18 [info]  Verified that 'File operation on integrators' contains : 'File operation on integrators' under the column : 'Type
+Jan 10,2022 17:13:18 [info]  Verified that 'File operation on integrators' contains : 'File operation on integrators' under the column : 'Type
+Jan 10,2022 17:13:18 [info]  Verified that 'File operation on integrators' contains : 'File operation on integrators' under the column : 'Type
+Jan 10,2022 17:13:18 [info]  Verified that 'File operation on integrators' contains : 'File operation on integrators' under the column : 'Type
+Jan 10,2022 17:13:18 [info]  Verified that 'File operation on integrators' contains : 'File operation on integrators' under the column : 'Type
+Jan 10,2022 17:13:18 [info]  Verified that 'File operation on integrators' contains : 'File operation on integrators' under the column : 'Type
+Jan 10,2022 17:13:18 [info]  Verified that 'File operation on integrators' contains : 'File operation on integrators' under the column : 'Type
+Jan 10,2022 17:13:24 [info]  Clicked on Filter Icon
+Jan 10,2022 17:13:28 [info]  Clicked on 'CLEAR' button at Filter Dialog
+Jan 10,2022 17:13:31 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 17:13:34 [info]  Clicked on Filter Icon
+Jan 10,2022 17:13:35 [info]  User has clicked on dropdown field: //label[text()='Severity']/following-sibling::div//span[@class='k-input']
+Jan 10,2022 17:13:35 [info]  User has selected dropdown option: //li[text()='Critical']
+Jan 10,2022 17:13:39 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 17:13:42 [info]  User verified number of applied filter : 1
+Jan 10,2022 17:13:43 [info]  Verified that 'Critical' contains : 'Critical' under the column : 'Severity
+Jan 10,2022 17:13:44 [info]  Verified that 'Critical' contains : 'Critical' under the column : 'Severity
+Jan 10,2022 17:13:44 [info]  Verified that 'Critical' contains : 'Critical' under the column : 'Severity
+Jan 10,2022 17:13:44 [info]  Verified that 'Critical' contains : 'Critical' under the column : 'Severity
+Jan 10,2022 17:13:44 [info]  Verified that 'Critical' contains : 'Critical' under the column : 'Severity
+Jan 10,2022 17:13:44 [info]  Verified that 'Critical' contains : 'Critical' under the column : 'Severity
+Jan 10,2022 17:13:44 [info]  Verified that 'Critical' contains : 'Critical' under the column : 'Severity
+Jan 10,2022 17:13:50 [info]  Clicked on Filter Icon
+Jan 10,2022 17:13:53 [info]  Clicked on 'CLEAR' button at Filter Dialog
+Jan 10,2022 17:13:56 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 17:14:00 [info]  Clicked on Filter Icon
+Jan 10,2022 17:14:01 [info]  User has clicked on dropdown field: //label[text()='Severity']/following-sibling::div//span[@class='k-input']
+Jan 10,2022 17:14:01 [info]  User has selected dropdown option: //li[text()='Info']
+Jan 10,2022 17:14:05 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 17:14:08 [info]  User verified number of applied filter : 1
+Jan 10,2022 17:14:09 [info]  Verified that 'Info' contains : 'Info' under the column : 'Severity
+Jan 10,2022 17:14:09 [info]  Verified that 'Info' contains : 'Info' under the column : 'Severity
+Jan 10,2022 17:14:09 [info]  Verified that 'Info' contains : 'Info' under the column : 'Severity
+Jan 10,2022 17:14:09 [info]  Verified that 'Info' contains : 'Info' under the column : 'Severity
+Jan 10,2022 17:14:09 [info]  Verified that 'Info' contains : 'Info' under the column : 'Severity
+Jan 10,2022 17:14:16 [info]  Clicked on Filter Icon
+Jan 10,2022 17:14:19 [info]  Clicked on 'CLEAR' button at Filter Dialog
+Jan 10,2022 17:14:22 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 17:14:25 [info]  Clicked on Filter Icon
+Jan 10,2022 17:14:26 [info]  User has clicked on dropdown field: //label[text()='Severity']/following-sibling::div//span[@class='k-input']
+Jan 10,2022 17:14:26 [info]  User has selected dropdown option: //li[text()='Warning']
+Jan 10,2022 17:14:31 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 17:14:34 [info]  User verified number of applied filter : 1
+Jan 10,2022 17:14:35 [info]  Verified that 'Warning' contains : 'Warning' under the column : 'Severity
+Jan 10,2022 17:14:35 [info]  Verified that 'Warning' contains : 'Warning' under the column : 'Severity
+Jan 10,2022 17:14:35 [info]  Verified that 'Warning' contains : 'Warning' under the column : 'Severity
+Jan 10,2022 17:14:35 [info]  Verified that 'Warning' contains : 'Warning' under the column : 'Severity
+Jan 10,2022 17:14:35 [info]  Verified that 'Warning' contains : 'Warning' under the column : 'Severity
+Jan 10,2022 17:14:35 [info]  Verified that 'Warning' contains : 'Warning' under the column : 'Severity
+Jan 10,2022 17:14:35 [info]  Verified that 'Warning' contains : 'Warning' under the column : 'Severity
+Jan 10,2022 17:14:35 [info]  Verified that 'Warning' contains : 'Warning' under the column : 'Severity
+Jan 10,2022 17:14:35 [info]  Verified that 'Warning' contains : 'Warning' under the column : 'Severity
+Jan 10,2022 17:14:35 [info]  Verified that 'Warning' contains : 'Warning' under the column : 'Severity
+Jan 10,2022 17:14:41 [info]  Clicked on Filter Icon
+Jan 10,2022 17:14:44 [info]  Clicked on 'CLEAR' button at Filter Dialog
+Jan 10,2022 17:14:47 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 17:14:51 [info]  Clicked on Filter Icon
+Jan 10,2022 17:14:52 [info]  User has clicked on dropdown field: //label[text()='Name']/following-sibling::div//span[@class='k-input']
+Jan 10,2022 17:14:52 [info]  User has selected dropdown option: //li[text()='Contains']
+Jan 10,2022 17:14:57 [info]  User has clicked on dropdown field: //label[text()='Name']/..//input
+Jan 10,2022 17:14:59 [info]  User has clicked on dropdown field: //label[text()='Type']/following-sibling::div//span[@class='k-input']
+Jan 10,2022 17:14:59 [info]  User has selected dropdown option: //li[text()='Activity Less Than X Hours']
+Jan 10,2022 17:15:03 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 17:15:06 [info]  User verified number of applied filter : 2
+Jan 10,2022 17:15:07 [info]  Verified that 'Testing X hours' contains : 'Testing' under the column : 'Name
+Jan 10,2022 17:15:07 [info]  Verified that 'TestingRead' contains : 'Testing' under the column : 'Name
+Jan 10,2022 17:15:08 [info]  Verified that 'Activity Less Than X Hours' contains : 'Activity Less Than X Hours' under the column : 'Type
+Jan 10,2022 17:15:08 [info]  Verified that 'Activity Less Than X Hours' contains : 'Activity Less Than X Hours' under the column : 'Type
+Jan 10,2022 17:15:14 [info]  Clicked on Filter Icon
+Jan 10,2022 17:15:18 [info]  Clicked on 'CLEAR' button at Filter Dialog
+Jan 10,2022 17:15:21 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 17:15:24 [info]  Clicked on Filter Icon
+Jan 10,2022 17:15:25 [info]  User has clicked on dropdown field: //label[text()='Integration']/following-sibling::div//span[@class='k-input']
+Jan 10,2022 17:15:25 [info]  User has selected dropdown option: //li[text()='Contains']
+Jan 10,2022 17:15:31 [info]  User has clicked on dropdown field: //label[text()='Integration']/..//input
+Jan 10,2022 17:15:34 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 17:15:37 [info]  User verified number of applied filter : 1
+Jan 10,2022 17:15:38 [info]  Verified that 'netappqa' contains : 'qa' under the column : 'Integration
+Jan 10,2022 17:15:38 [info]  Verified that 'netappqa' contains : 'qa' under the column : 'Integration
+Jan 10,2022 17:15:38 [info]  Verified that 'netappqa' contains : 'qa' under the column : 'Integration
+Jan 10,2022 17:15:38 [info]  Verified that 'netappqa' contains : 'qa' under the column : 'Integration
+Jan 10,2022 17:15:38 [info]  Verified that 'netappqa' contains : 'qa' under the column : 'Integration
+Jan 10,2022 17:15:44 [info]  Clicked on Filter Icon
+Jan 10,2022 17:15:47 [info]  Clicked on 'CLEAR' button at Filter Dialog
+Jan 10,2022 17:15:50 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 17:15:54 [info]  Clicked on Filter Icon
+Jan 10,2022 17:15:55 [info]  User has clicked on dropdown field: //label[text()='Integration']/following-sibling::div//span[@class='k-input']
+Jan 10,2022 17:15:55 [info]  User has selected dropdown option: //li[text()='Contains']
+Jan 10,2022 17:16:00 [info]  User has clicked on dropdown field: //label[text()='Integration']/..//input
+Jan 10,2022 17:16:03 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 17:16:06 [info]  User verified number of applied filter : 1
+Jan 10,2022 17:16:13 [info]  Clicked on Filter Icon
+Jan 10,2022 17:16:16 [info]  Clicked on 'CLEAR' button at Filter Dialog
+Jan 10,2022 17:16:19 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 17:16:22 [info]  Clicked on Filter Icon
+Jan 10,2022 17:16:24 [info]  User has clicked on dropdown field: //label[text()='Integration']/following-sibling::div//span[@class='k-input']
+Jan 10,2022 17:16:24 [info]  User has selected dropdown option: //li[text()='Equals']
+Jan 10,2022 17:16:29 [info]  User has clicked on dropdown field: //label[text()='Integration']/..//input
+Jan 10,2022 17:16:32 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 17:16:35 [info]  User verified number of applied filter : 1
+Jan 10,2022 17:16:36 [info]  Verified that 'netappqa' contains : 'netappqa' under the column : 'Integration
+Jan 10,2022 17:16:36 [info]  Verified that 'netappqa' contains : 'netappqa' under the column : 'Integration
+Jan 10,2022 17:16:36 [info]  Verified that 'netappqa' contains : 'netappqa' under the column : 'Integration
+Jan 10,2022 17:16:36 [info]  Verified that 'netappqa' contains : 'netappqa' under the column : 'Integration
+Jan 10,2022 17:16:36 [info]  Verified that 'netappqa' contains : 'netappqa' under the column : 'Integration
+Jan 10,2022 17:16:43 [info]  Clicked on Filter Icon
+Jan 10,2022 17:16:46 [info]  Clicked on 'CLEAR' button at Filter Dialog
+Jan 10,2022 17:16:49 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 17:16:52 [info]  Clicked on Filter Icon
+Jan 10,2022 17:16:53 [info]  User has clicked on dropdown field: //label[text()='Integration']/following-sibling::div//span[@class='k-input']
+Jan 10,2022 17:16:53 [info]  User has selected dropdown option: //li[text()='Equals']
+Jan 10,2022 17:16:59 [info]  User has clicked on dropdown field: //label[text()='Integration']/..//input
+Jan 10,2022 17:17:02 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 17:17:05 [info]  User verified number of applied filter : 1
+Jan 10,2022 17:17:11 [info]  Clicked on Filter Icon
+Jan 10,2022 17:17:14 [info]  Clicked on 'CLEAR' button at Filter Dialog
+Jan 10,2022 17:17:17 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 17:17:21 [info]  Clicked on Filter Icon
+Jan 10,2022 17:17:22 [info]  User has clicked on dropdown field: //label[text()='Integration']/following-sibling::div//span[@class='k-input']
+Jan 10,2022 17:17:22 [info]  User has selected dropdown option: //li[text()='Start With']
+Jan 10,2022 17:17:27 [info]  User has clicked on dropdown field: //label[text()='Integration']/..//input
+Jan 10,2022 17:17:30 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 17:17:34 [info]  User verified number of applied filter : 1
+Jan 10,2022 17:17:35 [info]  Verified that 'netappqa' contains : 'netapp' under the column : 'Integration
+Jan 10,2022 17:17:35 [info]  Verified that 'netappqa' contains : 'netapp' under the column : 'Integration
+Jan 10,2022 17:17:35 [info]  Verified that 'netappqa' contains : 'netapp' under the column : 'Integration
+Jan 10,2022 17:17:35 [info]  Verified that 'netappqa' contains : 'netapp' under the column : 'Integration
+Jan 10,2022 17:17:35 [info]  Verified that 'netappqa' contains : 'netapp' under the column : 'Integration
+Jan 10,2022 17:17:41 [info]  Clicked on Filter Icon
+Jan 10,2022 17:17:44 [info]  Clicked on 'CLEAR' button at Filter Dialog
+Jan 10,2022 17:17:47 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 17:17:51 [info]  Clicked on Filter Icon
+Jan 10,2022 17:17:52 [info]  User has clicked on dropdown field: //label[text()='Name']/following-sibling::div//span[@class='k-input']
+Jan 10,2022 17:17:52 [info]  User has selected dropdown option: //li[text()='Contains']
+Jan 10,2022 17:17:57 [info]  User has clicked on dropdown field: //label[text()='Name']/..//input
+Jan 10,2022 17:17:58 [info]  User has clicked on dropdown field: //label[text()='Type']/following-sibling::div//span[@class='k-input']
+Jan 10,2022 17:17:59 [info]  User has selected dropdown option: //li[text()='Activity Less Than X Hours']
+Jan 10,2022 17:18:01 [info]  User has clicked on dropdown field: //label[text()='Integration']/following-sibling::div//span[@class='k-input']
+Jan 10,2022 17:18:01 [info]  User has selected dropdown option: //li[text()='Contains']
+Jan 10,2022 17:18:06 [info]  User has clicked on dropdown field: //label[text()='Integration']/..//input
+Jan 10,2022 17:18:09 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 17:18:12 [info]  User verified number of applied filter : 3
+Jan 10,2022 17:18:52 [info]  Clicked on Filter Icon
+Jan 10,2022 17:18:55 [info]  Clicked on 'CLEAR' button at Filter Dialog
+Jan 10,2022 17:18:58 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 20:23:25 [info]  Clicked on Filter Icon
+Jan 10,2022 20:23:26 [info]  User has clicked on dropdown field: //label[text()='Name']/following-sibling::div//span[@class='k-input']
+Jan 10,2022 20:23:26 [info]  User has selected dropdown option: //li[text()='Contains']
+Jan 10,2022 20:23:32 [info]  User has clicked on dropdown field: //label[text()='Name']/..//input
+Jan 10,2022 20:23:33 [info]  User has clicked on dropdown field: //label[text()='Type']/following-sibling::div//span[@class='k-input']
+Jan 10,2022 20:23:33 [info]  User has selected dropdown option: //li[text()='Activity Less Than X Hours']
+Jan 10,2022 20:23:35 [info]  User has clicked on dropdown field: //label[text()='Integration']/following-sibling::div//span[@class='k-input']
+Jan 10,2022 20:23:35 [info]  User has selected dropdown option: //li[text()='Contains']
+Jan 10,2022 20:23:41 [info]  User has clicked on dropdown field: //label[text()='Integration']/..//input
+Jan 10,2022 20:23:42 [info]  User has clicked on dropdown field: //label[text()='Severity']/following-sibling::div//span[@class='k-input']
+Jan 10,2022 20:23:42 [info]  User has selected dropdown option: //li[text()='Warning']
+Jan 10,2022 20:23:46 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 20:23:49 [info]  User verified number of applied filter : 4
+Jan 10,2022 20:24:40 [info]  Clicked on Filter Icon
+Jan 10,2022 20:24:44 [info]  Clicked on 'CLEAR' button at Filter Dialog
+Jan 10,2022 20:24:47 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 20:26:28 [info]  Clicked on Filter Icon
+Jan 10,2022 20:26:30 [info]  User has clicked on dropdown field: //label[text()='Name']/following-sibling::div//span[@class='k-input']
+Jan 10,2022 20:26:30 [info]  User has selected dropdown option: //li[text()='Contains']
+Jan 10,2022 20:26:35 [info]  User has clicked on dropdown field: //label[text()='Name']/..//input
+Jan 10,2022 20:26:36 [info]  User has clicked on dropdown field: //label[text()='Type']/following-sibling::div//span[@class='k-input']
+Jan 10,2022 20:26:36 [info]  User has selected dropdown option: //li[text()='File operation on integrators']
+Jan 10,2022 20:26:38 [info]  User has clicked on dropdown field: //label[text()='Integration']/following-sibling::div//span[@class='k-input']
+Jan 10,2022 20:26:38 [info]  User has selected dropdown option: //li[text()='Contains']
+Jan 10,2022 20:26:44 [info]  User has clicked on dropdown field: //label[text()='Integration']/..//input
+Jan 10,2022 20:26:45 [info]  User has clicked on dropdown field: //label[text()='Severity']/following-sibling::div//span[@class='k-input']
+Jan 10,2022 20:26:45 [info]  User has selected dropdown option: //li[text()='Warning']
+Jan 10,2022 20:26:49 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 10,2022 20:26:52 [info]  User verified number of applied filter : 4
+Jan 10,2022 20:26:53 [info]  Verified that 'Testing Netapp read' contains : 'Netapp' under the column : 'Name
+Jan 10,2022 20:26:53 [info]  Verified that 'Testing Netapp Modified' contains : 'Netapp' under the column : 'Name
+Jan 10,2022 20:26:54 [info]  Verified that 'Testing Netapp renamed' contains : 'Netapp' under the column : 'Name
+Jan 10,2022 20:26:54 [info]  Verified that 'TestingNetappcreatedNew' contains : 'Netapp' under the column : 'Name
+Jan 10,2022 20:26:55 [info]  Verified that 'File operation on integrators' contains : 'File operation on integrators' under the column : 'Type
+Jan 10,2022 20:26:55 [info]  Verified that 'File operation on integrators' contains : 'File operation on integrators' under the column : 'Type
+Jan 10,2022 20:26:55 [info]  Verified that 'File operation on integrators' contains : 'File operation on integrators' under the column : 'Type
+Jan 10,2022 20:26:55 [info]  Verified that 'File operation on integrators' contains : 'File operation on integrators' under the column : 'Type
+Jan 10,2022 20:26:56 [info]  Verified that 'netappqa' contains : 'netappqa' under the column : 'Integration
+Jan 10,2022 20:26:56 [info]  Verified that 'netappqa' contains : 'netappqa' under the column : 'Integration
+Jan 10,2022 20:26:56 [info]  Verified that 'netappqa' contains : 'netappqa' under the column : 'Integration
+Jan 10,2022 20:26:56 [info]  Verified that 'netappqa' contains : 'netappqa' under the column : 'Integration
+Jan 10,2022 20:26:57 [info]  Verified that 'Warning' contains : 'Warning' under the column : 'Severity
+Jan 10,2022 20:26:57 [info]  Verified that 'Warning' contains : 'Warning' under the column : 'Severity
+Jan 10,2022 20:26:57 [info]  Verified that 'Warning' contains : 'Warning' under the column : 'Severity
+Jan 10,2022 20:26:57 [info]  Verified that 'Warning' contains : 'Warning' under the column : 'Severity
+Jan 10,2022 20:27:04 [info]  Clicked on Filter Icon
+Jan 10,2022 20:27:07 [info]  Clicked on 'CLEAR' button at Filter Dialog
+Jan 10,2022 20:27:10 [info]  Clicked on 'OK' button at Filter Dialog

@@ -1,0 +1,95 @@
+Jan 23,2022 13:27:48 [info]  refresh button is 
+Jan 23,2022 13:27:48 [info]  export button
+Jan 23,2022 13:41:09 [info]  filter Button is present true
+Jan 23,2022 13:41:09 [info]  refresh button is present true
+Jan 23,2022 13:41:09 [info]  export button is presenttrue
+Jan 23,2022 18:49:20 [info]  Clicked on Filter Icon
+Jan 23,2022 18:49:21 [info]  User has clicked on dropdown field: //label[text()='Role']/following-sibling::div//span[@class='k-input']
+Jan 23,2022 18:49:21 [info]  User has selected dropdown option: //li[text()='Administrator']
+Jan 23,2022 18:49:25 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 23,2022 18:49:29 [info]  User verified number of applied filter : 1
+Jan 23,2022 18:49:30 [info]  Verified that 'Administrator' contains : 'Administrator' under the column : 'Role
+Jan 23,2022 18:49:30 [info]  Verified that 'Administrator' contains : 'Administrator' under the column : 'Role
+Jan 23,2022 18:49:30 [info]  Verified that 'Administrator' contains : 'Administrator' under the column : 'Role
+Jan 23,2022 18:49:30 [info]  Verified that 'Administrator' contains : 'Administrator' under the column : 'Role
+Jan 23,2022 18:49:30 [info]  Verified that 'Administrator' contains : 'Administrator' under the column : 'Role
+Jan 23,2022 18:49:30 [info]  Verified that 'Administrator' contains : 'Administrator' under the column : 'Role
+Jan 23,2022 18:49:33 [info]  Clicked on Filter Icon
+Jan 23,2022 18:49:36 [info]  Clicked on 'CLEAR' button at Filter Dialog
+Jan 23,2022 18:49:39 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 23,2022 18:50:18 [info]  Clicked on create alert button
+Jan 23,2022 18:50:19 [info]  User enters name : nasim@auto10375
+Jan 23,2022 18:50:21 [info]  User enters email : nasim@auto10375.com
+Jan 23,2022 18:50:23 [info]  User selected roles for new user : User Manager
+Jan 23,2022 18:56:54 [info]  Clicked on Filter Icon
+Jan 23,2022 18:56:55 [info]  User has clicked on dropdown field: //label[text()='Email']/following-sibling::div//span[@class='k-input']
+Jan 23,2022 18:56:55 [info]  User has selected dropdown option: //li[text()='Contains']
+Jan 23,2022 18:57:00 [info]  User has clicked on dropdown field: //label[text()='Email']/..//input
+Jan 23,2022 18:57:04 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 23,2022 18:57:07 [info]  User verified number of applied filter : 1
+Jan 23,2022 18:57:10 [info]  Clicked on Filter Icon
+Jan 23,2022 18:57:13 [info]  Clicked on 'CLEAR' button at Filter Dialog
+Jan 23,2022 18:57:16 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 23,2022 19:09:56 [info]  Clicked on Filter Icon
+Jan 23,2022 19:09:57 [info]  User has clicked on dropdown field: //label[text()='Email']/following-sibling::div//span[@class='k-input']
+Jan 23,2022 19:09:57 [info]  User has selected dropdown option: //li[text()='Contains']
+Jan 23,2022 19:10:02 [info]  User has clicked on dropdown field: //label[text()='Email']/..//input
+Jan 23,2022 19:10:06 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 23,2022 19:10:09 [info]  User verified number of applied filter : 1
+Jan 23,2022 19:10:12 [info]  Clicked on Filter Icon
+Jan 23,2022 19:10:15 [info]  Clicked on 'CLEAR' button at Filter Dialog
+Jan 23,2022 19:10:18 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 23,2022 19:56:02 [info]  Clicked on Filter Icon
+Jan 23,2022 19:56:04 [info]  User has clicked on dropdown field: //label[text()='Email']/following-sibling::div//span[@class='k-input']
+Jan 23,2022 19:56:06 [info]  User has selected dropdown option: //li[text()='Contains']
+Jan 23,2022 19:56:12 [info]  User has clicked on dropdown field: //label[text()='Email']/..//input
+Jan 23,2022 19:56:16 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 23,2022 19:56:20 [info]  User verified number of applied filter : 1
+Jan 23,2022 19:56:24 [info]  Clicked on Filter Icon
+Jan 23,2022 19:56:29 [info]  Clicked on 'CLEAR' button at Filter Dialog
+Jan 23,2022 19:56:33 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 23,2022 20:29:01 [info]  Clicked on Filter Icon
+Jan 23,2022 20:29:01 [info]  Jan 23,2022 20:29:01 [info]  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Error message >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Jan 23,2022 20:29:03 [info]  Jan 23,2022 20:29:03 [info]  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Error message >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Jan 23,2022 20:43:40 [info]  Clicked on Filter Icon
+Jan 23,2022 20:43:41 [info]  Jan 23,2022 20:43:41 [info]  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Error message >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Jan 23,2022 20:43:43 [info]  Jan 23,2022 20:43:43 [info]  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Error message >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Jan 23,2022 20:47:19 [info]  Clicked on Filter Icon
+Jan 23,2022 20:47:19 [info]  Jan 23,2022 20:47:19 [info]  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Error message >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Jan 23,2022 20:47:22 [info]  Jan 23,2022 20:47:22 [info]  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Error message >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Jan 23,2022 20:55:08 [info]  Clicked on Filter Icon
+Jan 23,2022 20:55:11 [info]  User has clicked on dropdown field: //label[text()='Email']/following-sibling::div//span[@class='k-input']
+Jan 23,2022 20:55:12 [info]  User has selected dropdown option: //li[text()='Contains']
+Jan 23,2022 20:55:18 [info]  User has clicked on dropdown field: //label[text()='Email']/..//input
+Jan 23,2022 20:55:22 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 23,2022 20:55:27 [info]  User verified number of applied filter : 1
+Jan 23,2022 20:55:31 [info]  Clicked on Filter Icon
+Jan 23,2022 20:55:35 [info]  Clicked on 'CLEAR' button at Filter Dialog
+Jan 23,2022 20:55:39 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 23,2022 21:02:15 [info]  Clicked on Filter Icon
+Jan 23,2022 21:02:17 [info]  User has clicked on dropdown field: //label[text()='Email']/following-sibling::div//span[@class='k-input']
+Jan 23,2022 21:02:18 [info]  User has selected dropdown option: //li[text()='Contains']
+Jan 23,2022 21:02:24 [info]  User has clicked on dropdown field: //label[text()='Email']/..//input
+Jan 23,2022 21:02:28 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 23,2022 21:02:33 [info]  User verified number of applied filter : 1
+Jan 23,2022 21:02:37 [info]  Clicked on Filter Icon
+Jan 23,2022 21:02:41 [info]  Clicked on 'CLEAR' button at Filter Dialog
+Jan 23,2022 21:02:45 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 23,2022 21:04:49 [info]  Clicked on Filter Icon
+Jan 23,2022 21:04:51 [info]  User has clicked on dropdown field: //label[text()='Email']/following-sibling::div//span[@class='k-input']
+Jan 23,2022 21:04:52 [info]  User has selected dropdown option: //li[text()='Contains']
+Jan 23,2022 21:04:58 [info]  User has clicked on dropdown field: //label[text()='Email']/..//input
+Jan 23,2022 21:05:02 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 23,2022 21:05:06 [info]  User verified number of applied filter : 1
+Jan 23,2022 21:05:11 [info]  Clicked on Filter Icon
+Jan 23,2022 21:05:15 [info]  Clicked on 'CLEAR' button at Filter Dialog
+Jan 23,2022 21:05:19 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 23,2022 21:48:55 [info]  Clicked on Filter Icon
+Jan 23,2022 21:48:57 [info]  User has clicked on dropdown field: //label[text()='Email']/following-sibling::div//span[@class='k-input']
+Jan 23,2022 21:48:58 [info]  User has selected dropdown option: //li[text()='Contains']
+Jan 23,2022 21:49:05 [info]  User has clicked on dropdown field: //label[text()='Email']/..//input
+Jan 23,2022 21:49:09 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 23,2022 21:49:13 [info]  User verified number of applied filter : 1
+Jan 23,2022 21:49:17 [info]  Clicked on Filter Icon
+Jan 23,2022 21:49:21 [info]  Clicked on 'CLEAR' button at Filter Dialog
+Jan 23,2022 21:49:25 [info]  Clicked on 'OK' button at Filter Dialog

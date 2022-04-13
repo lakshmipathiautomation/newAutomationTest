@@ -1,0 +1,755 @@
+Jan 25,2022 09:00:54 [info]  UpdateTestRailResults:  null
+Jan 25,2022 09:00:54 [info]  TestrailProjectName:  null
+Jan 25,2022 09:00:54 [info]  TestrailRunName:  null
+Jan 25,2022 09:01:32 [info]  UpdateTestRailResults:  null
+Jan 25,2022 09:01:32 [info]  TestrailProjectName:  null
+Jan 25,2022 09:01:32 [info]  TestrailRunName:  null
+Jan 25,2022 09:08:08 [info]  Clicked on Heade of Column : Alias
+Jan 25,2022 09:08:18 [info]  UpdateTestRailResults:  null
+Jan 25,2022 09:08:18 [info]  TestrailProjectName:  null
+Jan 25,2022 09:08:18 [info]  TestrailRunName:  null
+Jan 25,2022 09:10:23 [info]  Clicked on Heade of Column : Alias
+Jan 25,2022 09:10:33 [info]  UpdateTestRailResults:  null
+Jan 25,2022 09:10:33 [info]  TestrailProjectName:  null
+Jan 25,2022 09:10:33 [info]  TestrailRunName:  null
+Jan 25,2022 09:41:27 [info]  Clicked on Heade of Column : Alias
+Jan 25,2022 09:42:34 [info]  UpdateTestRailResults:  null
+Jan 25,2022 09:42:34 [info]  TestrailProjectName:  null
+Jan 25,2022 09:42:34 [info]  TestrailRunName:  null
+Jan 25,2022 19:28:09 [info]  Clicked on create alert button
+Jan 25,2022 19:28:12 [info]  User enters name : nasim@auto79520
+Jan 25,2022 19:28:14 [info]  User enters email : nasim@auto79520.com
+Jan 25,2022 19:28:19 [info]  User selected roles for new user : Administrator
+Jan 25,2022 19:28:21 [info]  User selected password option : Set Password
+Jan 25,2022 19:28:29 [info]  User clicked on Save button
+Jan 25,2022 19:28:32 [info]  User is verified.
+Jan 25,2022 19:28:35 [info]  Clicked on delete button to delete User
+Jan 25,2022 19:29:46 [info]  Clicked on Filter Icon
+Jan 25,2022 19:29:48 [info]  UpdateTestRailResults:  null
+Jan 25,2022 19:29:48 [info]  TestrailProjectName:  null
+Jan 25,2022 19:29:48 [info]  TestrailRunName:  null
+Jan 25,2022 19:32:11 [info]  Clicked on Filter Icon
+Jan 25,2022 19:32:15 [info]  UpdateTestRailResults:  null
+Jan 25,2022 19:32:15 [info]  TestrailProjectName:  null
+Jan 25,2022 19:32:15 [info]  TestrailRunName:  null
+Jan 25,2022 19:33:46 [info]  Clicked on Filter Icon
+Jan 25,2022 19:33:49 [info]  UpdateTestRailResults:  null
+Jan 25,2022 19:33:49 [info]  TestrailProjectName:  null
+Jan 25,2022 19:33:49 [info]  TestrailRunName:  null
+Jan 25,2022 19:35:22 [info]  Clicked on Filter Icon
+Jan 25,2022 19:35:25 [info]  UpdateTestRailResults:  null
+Jan 25,2022 19:35:25 [info]  TestrailProjectName:  null
+Jan 25,2022 19:35:25 [info]  TestrailRunName:  null
+Jan 25,2022 19:36:56 [info]  Clicked on Filter Icon
+Jan 25,2022 19:37:00 [info]  UpdateTestRailResults:  null
+Jan 25,2022 19:37:00 [info]  TestrailProjectName:  null
+Jan 25,2022 19:37:00 [info]  TestrailRunName:  null
+Jan 25,2022 19:41:08 [info]  Clicked on Filter Icon
+Jan 25,2022 19:41:11 [info]  UpdateTestRailResults:  null
+Jan 25,2022 19:41:11 [info]  TestrailProjectName:  null
+Jan 25,2022 19:41:11 [info]  TestrailRunName:  null
+Jan 25,2022 19:44:10 [info]  Clicked on Filter Icon
+Jan 25,2022 19:44:13 [info]  User has clicked on dropdown field: //label[text()='Email']/following-sibling::div//span[@class='k-input']
+Jan 25,2022 19:44:14 [info]  User has selected dropdown option: //li[text()='Contains']
+Jan 25,2022 19:44:20 [info]  User has clicked on dropdown field: //label[text()='Email']/..//input
+Jan 25,2022 19:44:24 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 25,2022 19:44:28 [info]  User verified number of applied filter : 1
+Jan 25,2022 19:44:33 [info]  Clicked on Filter Icon
+Jan 25,2022 19:44:37 [info]  Clicked on 'CLEAR' button at Filter Dialog
+Jan 25,2022 19:44:41 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 25,2022 19:45:23 [info]  Clicked on Filter Icon
+Jan 25,2022 19:45:26 [info]  UpdateTestRailResults:  null
+Jan 25,2022 19:45:26 [info]  TestrailProjectName:  null
+Jan 25,2022 19:45:26 [info]  TestrailRunName:  null
+Jan 25,2022 19:50:27 [info]  Clicked on Filter Icon
+Jan 25,2022 19:50:30 [info]  UpdateTestRailResults:  null
+Jan 25,2022 19:50:30 [info]  TestrailProjectName:  null
+Jan 25,2022 19:50:30 [info]  TestrailRunName:  null
+Jan 25,2022 20:27:07 [info]  Clicked on Filter Icon
+Jan 25,2022 20:27:09 [info]  User has clicked on dropdown field: //label[text()='Email']/following-sibling::div//span[@class='k-input']
+Jan 25,2022 20:27:10 [info]  User has selected dropdown option: //li[text()='Contains']
+Jan 25,2022 20:27:17 [info]  User has clicked on dropdown field: //label[text()='Email']/..//input
+Jan 25,2022 20:27:21 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 25,2022 20:27:26 [info]  User verified number of applied filter : 1
+Jan 25,2022 20:27:30 [info]  Clicked on Filter Icon
+Jan 25,2022 20:27:34 [info]  Clicked on 'CLEAR' button at Filter Dialog
+Jan 25,2022 20:27:38 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 25,2022 20:28:21 [info]  Clicked on Filter Icon
+Jan 25,2022 20:28:24 [info]  User has clicked on dropdown field: //label[text()='Role']/following-sibling::div//span[@class='k-input']
+Jan 25,2022 20:28:25 [info]  User has selected dropdown option: //li[text()='Administrator']
+Jan 25,2022 20:28:30 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 25,2022 20:28:34 [info]  User verified number of applied filter : 1
+Jan 25,2022 20:28:35 [info]  Verified that 'Administrator' contains : 'Administrator' under the column : 'Role
+Jan 25,2022 20:28:35 [info]  Verified that 'Administrator' contains : 'Administrator' under the column : 'Role
+Jan 25,2022 20:28:35 [info]  Verified that 'Administrator' contains : 'Administrator' under the column : 'Role
+Jan 25,2022 20:28:35 [info]  Verified that 'Administrator' contains : 'Administrator' under the column : 'Role
+Jan 25,2022 20:28:35 [info]  Verified that 'Administrator' contains : 'Administrator' under the column : 'Role
+Jan 25,2022 20:28:35 [info]  Verified that 'Administrator' contains : 'Administrator' under the column : 'Role
+Jan 25,2022 20:28:35 [info]  Verified that 'Administrator' contains : 'Administrator' under the column : 'Role
+Jan 25,2022 20:28:39 [info]  Clicked on Filter Icon
+Jan 25,2022 20:28:44 [info]  Clicked on 'CLEAR' button at Filter Dialog
+Jan 25,2022 20:28:48 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 25,2022 20:29:33 [info]  Clicked on create alert button
+Jan 25,2022 20:29:36 [info]  User enters name : nasim@auto74193
+Jan 25,2022 20:29:38 [info]  User enters email : nasim@auto74193.com
+Jan 25,2022 20:29:42 [info]  User selected roles for new user : User Manager
+Jan 25,2022 20:30:04 [info]  Jan 25,2022 20:30:04 [info]  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Error message >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//label[text()='Manager of']/following-sibling::div//label[text()='QA Group']/input"}
+  (Session info: chrome=97.0.4692.99)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WIN-IAU3NU9P049', ip: '10.9.8.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\User\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:55945}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b4a0f7c28084ddb71da0ab72a16fa728
+*** Element info: {Using=xpath, value=//label[text()='Manager of']/following-sibling::div//label[text()='QA Group']/input}
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at utility.DriverPage.clickOn(DriverPage.java:155)
+	at pages.Admin_UsersPage.clickOnManagerOfCheckboxes(Admin_UsersPage.java:141)
+	at tests.Admin_UserTest.testApplicationAllowsToCreateAUserWithManageUserRole(Admin_UserTest.java:105)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:794)
+	at org.testng.TestRunner.run(TestRunner.java:596)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:418)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Jan 25,2022 20:30:36 [info]  Jan 25,2022 20:30:36 [info]  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Error message >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//td[text()='nasim@auto74193']/following-sibling::td//button[text()='Edit']"}
+  (Session info: chrome=97.0.4692.99)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WIN-IAU3NU9P049', ip: '10.9.8.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\User\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:55945}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b4a0f7c28084ddb71da0ab72a16fa728
+*** Element info: {Using=xpath, value=//td[text()='nasim@auto74193']/following-sibling::td//button[text()='Edit']}
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at utility.DriverPage.clickOn(DriverPage.java:155)
+	at pages.Admin_UsersPage.editExistingUser(Admin_UsersPage.java:102)
+	at tests.Admin_UserTest.testApplicationAllowsToCreateAUserWithManageUserRole(Admin_UserTest.java:121)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:794)
+	at org.testng.TestRunner.run(TestRunner.java:596)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:418)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Jan 25,2022 20:31:24 [info]  Clicked on create alert button
+Jan 25,2022 20:31:26 [info]  User enters name : nasim@auto74193
+Jan 25,2022 20:31:28 [info]  User enters email : nasim@auto74193.com
+Jan 25,2022 20:31:32 [info]  User selected roles for new user : Administrator
+Jan 25,2022 20:31:35 [info]  User selected password option : Send email to user set password
+Jan 25,2022 20:31:37 [info]  User clicked on Save button
+Jan 25,2022 20:31:38 [info]  User is verified.
+Jan 25,2022 20:31:41 [info]  Clicked on delete button to delete User
+Jan 25,2022 20:32:38 [info]  Clicked on create alert button
+Jan 25,2022 20:32:40 [info]  User enters name : nasim@auto74193
+Jan 25,2022 20:32:42 [info]  User enters email : nasim@auto74193.com
+Jan 25,2022 20:32:47 [info]  User selected roles for new user : Administrator
+Jan 25,2022 20:32:49 [info]  User selected password option : Send email to user set password
+Jan 25,2022 20:32:51 [info]  User clicked on Save button
+Jan 25,2022 20:32:52 [info]  User is verified.
+Jan 25,2022 20:32:58 [info]  Clicked on edit button to edit User
+Jan 25,2022 20:33:05 [info]  Jan 25,2022 20:33:05 [info]  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Error message >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button type="submit" style="padding-left:5px;" class="btn btn-next">...</button> is not clickable at point (862, 440). Other element would receive the click: <div id="components-reconnect-modal" style="position: fixed; inset: 0px; z-index: 1050; display: block; overflow: hidden; background-color: rgb(255, 255, 255); opacity: 0.8; text-align: center; font-weight: bold; transition: visibility 0s linear 500ms; visibility: visible;">...</div>
+  (Session info: chrome=97.0.4692.99)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WIN-IAU3NU9P049', ip: '10.9.8.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\User\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:56230}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f7499fab87bd306ee4a032e4d1cf92bc
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at utility.DriverPage.clickOn(DriverPage.java:155)
+	at pages.Admin_UsersPage.clickOnSaveButton(Admin_UsersPage.java:63)
+	at pages.Admin_UsersPage.setPasswordForExistingUser(Admin_UsersPage.java:182)
+	at tests.Admin_UserTest.testApplicationAllowsToSetPassword(Admin_UserTest.java:158)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:794)
+	at org.testng.TestRunner.run(TestRunner.java:596)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:418)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Jan 25,2022 20:33:08 [info]  Jan 25,2022 20:33:08 [info]  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Error message >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <div class="top-userEmail">...</div> is not clickable at point (1280, 15). Other element would receive the click: <div id="components-reconnect-modal" style="position: fixed; inset: 0px; z-index: 1050; display: block; overflow: hidden; background-color: rgb(255, 255, 255); opacity: 0.8; text-align: center; font-weight: bold; transition: visibility 0s linear 500ms; visibility: visible;">...</div>
+  (Session info: chrome=97.0.4692.99)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WIN-IAU3NU9P049', ip: '10.9.8.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\User\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:56230}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f7499fab87bd306ee4a032e4d1cf92bc
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at utility.DriverPage.clickOn(DriverPage.java:155)
+	at utility.DriverPage.logoutFromApplication(DriverPage.java:405)
+	at tests.Admin_UserTest.testApplicationAllowsToSetPassword(Admin_UserTest.java:175)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:794)
+	at org.testng.TestRunner.run(TestRunner.java:596)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:418)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Jan 25,2022 20:33:42 [info]  TestrailProjectName:  Arexdata
+Jan 25,2022 20:33:42 [info]  TestrailRunName:  AutomatedTestCases
+Jan 25,2022 20:57:41 [info]  Clicked on Filter Icon
+Jan 25,2022 20:57:44 [info]  User has clicked on dropdown field: //label[text()='Email']/following-sibling::div//span[@class='k-input']
+Jan 25,2022 20:57:45 [info]  User has selected dropdown option: //li[text()='Contains']
+Jan 25,2022 20:57:51 [info]  User has clicked on dropdown field: //label[text()='Email']/..//input
+Jan 25,2022 20:57:55 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 25,2022 20:58:00 [info]  User verified number of applied filter : 1
+Jan 25,2022 20:58:04 [info]  Clicked on Filter Icon
+Jan 25,2022 20:58:08 [info]  Clicked on 'CLEAR' button at Filter Dialog
+Jan 25,2022 20:58:12 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 25,2022 20:58:53 [info]  Clicked on Filter Icon
+Jan 25,2022 20:58:55 [info]  User has clicked on dropdown field: //label[text()='Role']/following-sibling::div//span[@class='k-input']
+Jan 25,2022 20:58:56 [info]  User has selected dropdown option: //li[text()='Administrator']
+Jan 25,2022 20:59:02 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 25,2022 20:59:06 [info]  User verified number of applied filter : 1
+Jan 25,2022 20:59:07 [info]  Verified that 'Administrator' contains : 'Administrator' under the column : 'Role
+Jan 25,2022 20:59:07 [info]  Verified that 'Administrator' contains : 'Administrator' under the column : 'Role
+Jan 25,2022 20:59:07 [info]  Verified that 'Administrator' contains : 'Administrator' under the column : 'Role
+Jan 25,2022 20:59:07 [info]  Verified that 'Administrator' contains : 'Administrator' under the column : 'Role
+Jan 25,2022 20:59:07 [info]  Verified that 'Administrator' contains : 'Administrator' under the column : 'Role
+Jan 25,2022 20:59:07 [info]  Verified that 'Administrator' contains : 'Administrator' under the column : 'Role
+Jan 25,2022 20:59:07 [info]  Verified that 'Administrator' contains : 'Administrator' under the column : 'Role
+Jan 25,2022 20:59:07 [info]  Verified that 'Administrator' contains : 'Administrator' under the column : 'Role
+Jan 25,2022 20:59:11 [info]  Clicked on Filter Icon
+Jan 25,2022 20:59:15 [info]  Clicked on 'CLEAR' button at Filter Dialog
+Jan 25,2022 20:59:20 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 25,2022 21:00:05 [info]  Clicked on create alert button
+Jan 25,2022 21:00:08 [info]  User enters name : nasim@auto57641
+Jan 25,2022 21:00:10 [info]  User enters email : nasim@auto57641.com
+Jan 25,2022 21:00:15 [info]  User selected roles for new user : User Manager
+Jan 25,2022 21:00:37 [info]  Jan 25,2022 21:00:37 [info]  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Error message >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//label[text()='Manager of']/following-sibling::div//label[text()='QA Group']/input"}
+  (Session info: chrome=97.0.4692.99)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WIN-IAU3NU9P049', ip: '10.9.8.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\User\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:56789}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9ec7bc38ac4888c412f2aca9dd638a22
+*** Element info: {Using=xpath, value=//label[text()='Manager of']/following-sibling::div//label[text()='QA Group']/input}
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at utility.DriverPage.clickOn(DriverPage.java:155)
+	at pages.Admin_UsersPage.clickOnManagerOfCheckboxes(Admin_UsersPage.java:141)
+	at tests.Admin_UserTest.testApplicationAllowsToCreateAUserWithManageUserRole(Admin_UserTest.java:105)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:794)
+	at org.testng.TestRunner.run(TestRunner.java:596)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:418)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Jan 25,2022 21:00:53 [info]  Clicked on edit button to edit User
+Jan 25,2022 21:00:58 [info]  User enters name : nasim@auto57641
+Jan 25,2022 21:01:02 [info]  User selected roles for new user : Administrator
+Jan 25,2022 21:01:05 [info]  User clicked on Save button
+Jan 25,2022 21:01:08 [info]  User is verified.
+Jan 25,2022 21:01:10 [info]  Clicked on delete button to delete User
+Jan 25,2022 21:02:01 [info]  Clicked on create alert button
+Jan 25,2022 21:02:04 [info]  User enters name : nasim@auto57641
+Jan 25,2022 21:02:06 [info]  User enters email : nasim@auto57641.com
+Jan 25,2022 21:02:10 [info]  User selected roles for new user : Administrator
+Jan 25,2022 21:02:12 [info]  User selected password option : Send email to user set password
+Jan 25,2022 21:02:14 [info]  User clicked on Save button
+Jan 25,2022 21:02:15 [info]  User is verified.
+Jan 25,2022 21:02:18 [info]  Clicked on delete button to delete User
+Jan 25,2022 21:03:07 [info]  Clicked on create alert button
+Jan 25,2022 21:03:10 [info]  User enters name : nasim@auto57641
+Jan 25,2022 21:03:12 [info]  User enters email : nasim@auto57641.com
+Jan 25,2022 21:03:16 [info]  User selected roles for new user : Administrator
+Jan 25,2022 21:03:19 [info]  User selected password option : Send email to user set password
+Jan 25,2022 21:03:21 [info]  User clicked on Save button
+Jan 25,2022 21:03:21 [info]  User is verified.
+Jan 25,2022 21:03:28 [info]  Clicked on edit button to edit User
+Jan 25,2022 21:03:35 [info]  User clicked on Save button
+Jan 25,2022 21:04:44 [info]  Clicked on delete button to delete User
+Jan 25,2022 21:05:35 [info]  Clicked on create alert button
+Jan 25,2022 21:05:37 [info]  User enters name : nasim@auto57641
+Jan 25,2022 21:05:39 [info]  User enters email : nasim@auto57641.com
+Jan 25,2022 21:05:44 [info]  User selected roles for new user : Administrator
+Jan 25,2022 21:05:46 [info]  User selected password option : Send email to user set password
+Jan 25,2022 21:05:48 [info]  User clicked on Save button
+Jan 25,2022 21:05:49 [info]  User is verified.
+Jan 25,2022 21:05:55 [info]  Clicked on edit button to edit User
+Jan 25,2022 21:06:02 [info]  User clicked on Save button
+Jan 25,2022 21:06:12 [info]  User clicked on Cancel button
+Jan 25,2022 21:06:14 [info]  Clicked on delete button to delete User
+Jan 25,2022 21:07:06 [info]  Clicked on create alert button
+Jan 25,2022 21:07:08 [info]  User enters name : nasim@auto57641
+Jan 25,2022 21:07:10 [info]  User enters email : nasim@auto57641.com
+Jan 25,2022 21:07:15 [info]  User selected roles for new user : Administrator
+Jan 25,2022 21:07:17 [info]  User selected password option : Set Password
+Jan 25,2022 21:07:25 [info]  User clicked on Save button
+Jan 25,2022 21:07:26 [info]  User is verified.
+Jan 25,2022 21:07:30 [info]  Clicked on edit button to edit User
+Jan 25,2022 21:07:37 [info]  Checkbox has been checked
+Jan 25,2022 21:07:39 [info]  User clicked on Save button
+Jan 25,2022 21:07:39 [info]  Verfied user is disabled
+Jan 25,2022 21:07:46 [info]  Clicked on delete button to delete User
+Jan 25,2022 21:08:39 [info]  Clicked on create alert button
+Jan 25,2022 21:08:42 [info]  User enters name : nasim@auto57641
+Jan 25,2022 21:08:44 [info]  User enters email : nasim@auto57641.com
+Jan 25,2022 21:08:48 [info]  User selected roles for new user : Administrator
+Jan 25,2022 21:08:51 [info]  User selected password option : Set Password
+Jan 25,2022 21:08:58 [info]  User clicked on Save button
+Jan 25,2022 21:08:58 [info]  User is verified.
+Jan 25,2022 21:09:02 [info]  Clicked on edit button to edit User
+Jan 25,2022 21:09:09 [info]  Checkbox has been checked
+Jan 25,2022 21:09:12 [info]  User clicked on Save button
+Jan 25,2022 21:09:12 [info]  Verfied user is disabled
+Jan 25,2022 21:09:57 [info]  Jan 25,2022 21:09:57 [info]  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Error message >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//td[text()='nasim@auto57641']/following-sibling::td//button[text()='Delete']"}
+  (Session info: chrome=97.0.4692.99)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WIN-IAU3NU9P049', ip: '10.9.8.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\User\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:57361}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 27396a5eade9ddf67e286ec3af47ac8c
+*** Element info: {Using=xpath, value=//td[text()='nasim@auto57641']/following-sibling::td//button[text()='Delete']}
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at utility.DriverPage.clickOn(DriverPage.java:155)
+	at pages.Admin_UsersPage.deleteExistingUser(Admin_UsersPage.java:91)
+	at tests.Admin_UserTest.testUserIsNotAbleToLoginIntoApplicationWhenDisabledUserProfile(Admin_UserTest.java:285)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:794)
+	at org.testng.TestRunner.run(TestRunner.java:596)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:418)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Jan 25,2022 21:10:41 [info]  Clicked on create alert button
+Jan 25,2022 21:10:44 [info]  User enters name : nasim@auto57641
+Jan 25,2022 21:10:46 [info]  User enters email : nasim@auto57641.com
+Jan 25,2022 21:10:50 [info]  User selected roles for new user : Administrator
+Jan 25,2022 21:10:53 [info]  User selected password option : Set Password
+Jan 25,2022 21:11:00 [info]  User clicked on Save button
+Jan 25,2022 21:11:00 [info]  User is verified.
+Jan 25,2022 21:11:03 [info]  Jan 25,2022 21:11:03 [info]  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Error message >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button type="button" class="btn btn-outline-danger btn-sm">...</button> is not clickable at point (1246, 171). Other element would receive the click: <div class="k-overlay" aria-hidden="true" tabindex="-1"></div>
+  (Session info: chrome=97.0.4692.99)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WIN-IAU3NU9P049', ip: '10.9.8.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\User\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:57535}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d93838e60b5c9cb02a864e9a824838b5
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at utility.DriverPage.clickOn(DriverPage.java:155)
+	at pages.Admin_UsersPage.deleteExistingUser(Admin_UsersPage.java:91)
+	at tests.Admin_UserTest.testUserIsNotAbleToLoginIntoApplicationWhenUserProfileIsDeleted(Admin_UserTest.java:323)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:794)
+	at org.testng.TestRunner.run(TestRunner.java:596)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:418)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Jan 25,2022 21:12:03 [info]  Clicked on Filter Icon
+Jan 25,2022 21:12:06 [info]  User has clicked on dropdown field: //label[text()='Name']/following-sibling::div//span[@class='k-input']
+Jan 25,2022 21:12:07 [info]  User has selected dropdown option: //li[text()='Contains']
+Jan 25,2022 21:12:13 [info]  User has clicked on dropdown field: //label[text()='Name']/..//input
+Jan 25,2022 21:12:17 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 25,2022 21:12:19 [info]  Verified that 'admin@qa.local' contains : 'admin' under the column : 'Name
+Jan 25,2022 21:12:23 [info]  Clicked on Filter Icon
+Jan 25,2022 21:12:27 [info]  Clicked on 'CLEAR' button at Filter Dialog
+Jan 25,2022 21:12:31 [info]  Clicked on 'OK' button at Filter Dialog
+Jan 25,2022 21:12:34 [info]  TestrailProjectName:  Arexdata
+Jan 25,2022 21:12:34 [info]  TestrailRunName:  AutomatedTestCases
+Jan 25,2022 22:32:19 [info]  Clicked on create alert button
+Jan 25,2022 22:32:27 [info]  Alert name entered.
+Jan 25,2022 22:32:35 [info]  Email entered.
+Jan 25,2022 22:32:36 [info]  Clicked on save button
+Jan 25,2022 22:32:40 [info]  Clicked on Heade of Column : Name
+Jan 25,2022 22:32:46 [info]  Clicked on delete button to delete alert
+Jan 25,2022 22:32:58 [info]  Closing driver on platform: Windows 10
+Jan 25,2022 22:33:51 [info]  Closing driver on platform: Windows 10
+Jan 25,2022 22:34:31 [info]  Closing driver on platform: Windows 10
+Jan 25,2022 22:35:09 [info]  Closing driver on platform: Windows 10
+Jan 25,2022 22:35:47 [info]  Closing driver on platform: Windows 10
+Jan 25,2022 22:36:27 [info]  Closing driver on platform: Windows 10
+Jan 25,2022 22:37:07 [info]  Closing driver on platform: Windows 10
+Jan 25,2022 22:37:43 [info]  Closing driver on platform: Windows 10
+Jan 25,2022 22:38:21 [info]  Closing driver on platform: Windows 10
+Jan 25,2022 22:38:59 [info]  Closing driver on platform: Windows 10
+Jan 25,2022 22:39:40 [info]  Closing driver on platform: Windows 10
+Jan 25,2022 22:40:22 [info]  Closing driver on platform: Windows 10
+Jan 25,2022 22:41:05 [info]  Closing driver on platform: Windows 10
+Jan 25,2022 22:41:45 [info]  Closing driver on platform: Windows 10
+Jan 25,2022 22:42:25 [info]  Closing driver on platform: Windows 10
+Jan 25,2022 22:44:53 [info]  Clicked on create alert button
+Jan 25,2022 22:45:00 [info]  Alert name entered.
+Jan 25,2022 22:45:08 [info]  Email entered.
+Jan 25,2022 22:45:09 [info]  Clicked on save button
+Jan 25,2022 22:45:13 [info]  Clicked on Heade of Column : Name
+Jan 25,2022 22:45:37 [info]  Clicked on delete button to delete alert
+Jan 25,2022 22:45:49 [info]  Closing driver on platform: Windows 10
+Jan 25,2022 22:46:32 [info]  Clicked on create alert button
+Jan 25,2022 22:46:39 [info]  Alert name entered.
+Jan 25,2022 22:46:47 [info]  Email entered.
+Jan 25,2022 22:46:48 [info]  Clicked on save button
+Jan 25,2022 22:46:54 [info]  Clicked on delete button to delete alert
+Jan 25,2022 22:47:14 [info]  Closing driver on platform: Windows 10
+Jan 25,2022 22:47:53 [info]  Clicked on create alert button
+Jan 25,2022 22:48:01 [info]  Alert name entered.
+Jan 25,2022 22:48:09 [info]  Email entered.
+Jan 25,2022 22:48:10 [info]  Clicked on save button
+Jan 25,2022 22:48:14 [info]  Clicked on edit button on alert
+Jan 25,2022 22:48:18 [info]  Alert name entered.
+Jan 25,2022 22:48:19 [info]  Clicked on save button
+Jan 25,2022 22:48:22 [info]  Alert is verified.
+Jan 25,2022 22:48:42 [info]  Clicked on delete button to delete alert
+Jan 25,2022 22:48:54 [info]  Closing driver on platform: Windows 10
+Jan 25,2022 22:49:21 [info]  Administration menu is selected.
+Jan 25,2022 22:49:25 [info]  Endpoints-> Settings menu is selected.
+Jan 25,2022 22:49:35 [info]  User clicked on Save button
+Jan 25,2022 22:49:36 [info]  User verified changes are saved
+Jan 25,2022 22:49:51 [info]  Closing driver on platform: Windows 10
+Jan 25,2022 22:50:29 [info]  Administration menu is selected.
+Jan 25,2022 22:50:33 [info]  Endpoints-> Settings menu is selected.
+Jan 25,2022 22:50:44 [info]  User clicked on Save button
+Jan 25,2022 22:50:45 [info]  User verified changes are saved
+Jan 25,2022 22:50:55 [info]  Closing driver on platform: Windows 10
+Jan 25,2022 22:51:41 [info]  Clicked on create alert button
+Jan 25,2022 22:51:44 [info]  User enters name : nasim@auto51990
+Jan 25,2022 22:51:46 [info]  User enters email : nasim@auto51990.com
+Jan 25,2022 22:51:50 [info]  User selected roles for new user : Administrator
+Jan 25,2022 22:51:52 [info]  User selected password option : Send email to user set password
+Jan 25,2022 22:51:55 [info]  User clicked on Save button
+Jan 25,2022 22:51:56 [info]  User is verified.
+Jan 25,2022 22:52:18 [info]  Clicked on delete button to delete User
+Jan 25,2022 22:52:27 [info]  Closing driver on platform: Windows 10
+Jan 25,2022 22:53:16 [info]  Clicked on create alert button
+Jan 25,2022 22:53:18 [info]  User enters name : nasim@auto51990
+Jan 25,2022 22:53:20 [info]  User enters email : nasim@auto51990.com
+Jan 25,2022 22:53:25 [info]  User selected roles for new user : Administrator
+Jan 25,2022 22:53:27 [info]  User selected password option : Send email to user set password
+Jan 25,2022 22:53:29 [info]  User clicked on Save button
+Jan 25,2022 22:53:30 [info]  User is verified.
+Jan 25,2022 22:53:33 [info]  Clicked on delete button to delete User
+Jan 25,2022 22:53:51 [info]  Closing driver on platform: Windows 10
+Jan 25,2022 22:54:27 [info]  Closing driver on platform: Windows 10
+Jan 25,2022 22:55:42 [info]  Closing driver on platform: Windows 10
+Jan 25,2022 22:59:46 [info]  Jan 25,2022 22:59:46 [info]  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Error message >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//p[text()='Administration']"}
+  (Session info: chrome=97.0.4692.99)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WIN-IAU3NU9P049', ip: '10.9.8.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\User\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:59782}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ab945958f38d56ae2efe2fb792e12474
+*** Element info: {Using=xpath, value=//p[text()='Administration']}
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at utility.DriverPage.clickOn(DriverPage.java:155)
+	at utility.DriverPage.selectTopMenu(DriverPage.java:397)
+	at pages.Admin_UsersPage.selectAdminUsersMenu(Admin_UsersPage.java:25)
+	at tests.ApplicationLogTest.testApplicationLogIsCreatedForUserModified(ApplicationLogTest.java:297)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:794)
+	at org.testng.TestRunner.run(TestRunner.java:596)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:418)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Jan 25,2022 23:00:13 [info]  Jan 25,2022 23:00:13 [info]  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Error message >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//p[text()='Administration']"}
+  (Session info: chrome=97.0.4692.99)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WIN-IAU3NU9P049', ip: '10.9.8.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\User\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:59782}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ab945958f38d56ae2efe2fb792e12474
+*** Element info: {Using=xpath, value=//p[text()='Administration']}
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at utility.DriverPage.clickOn(DriverPage.java:155)
+	at utility.DriverPage.selectTopMenu(DriverPage.java:397)
+	at pages.Admin_UsersPage.selectAdminUsersMenu(Admin_UsersPage.java:25)
+	at tests.ApplicationLogTest.testApplicationLogIsCreatedForUserModified(ApplicationLogTest.java:315)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:794)
+	at org.testng.TestRunner.run(TestRunner.java:596)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:418)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Jan 25,2022 23:00:24 [info]  Closing driver on platform: Windows 10
+Jan 25,2022 23:01:13 [info]  Closing driver on platform: Windows 10
+Jan 25,2022 23:02:01 [info]  Closing driver on platform: Windows 10
+Jan 25,2022 23:02:50 [info]  Closing driver on platform: Windows 10
+Jan 25,2022 23:03:39 [info]  Closing driver on platform: Windows 10
+Jan 25,2022 23:04:27 [info]  Closing driver on platform: Windows 10
+Jan 25,2022 23:05:16 [info]  Closing driver on platform: Windows 10
+Jan 25,2022 23:06:04 [info]  Closing driver on platform: Windows 10
+Jan 25,2022 23:06:41 [info]  Closing driver on platform: Windows 10
+Jan 25,2022 23:07:17 [info]  Closing driver on platform: Windows 10
+Jan 25,2022 23:07:55 [info]  Closing driver on platform: Windows 10
+Jan 25,2022 23:08:42 [info]  Closing driver on platform: Windows 10
+Jan 25,2022 23:09:32 [info]  Closing driver on platform: Windows 10

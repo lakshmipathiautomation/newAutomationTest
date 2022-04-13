@@ -1,0 +1,36 @@
+<suite thread-count="1" verbose="1" name="Regression Test" annotations="JDK" parallel="tests">
+
+	<listeners>
+		<listener class-name="utility.TestNGCustomReportListener" />
+	</listeners>
+
+	<groups>
+		<run>
+			<include name="Regression" />
+		</run>
+	</groups>
+
+	<test name="Admin Alert Test" preserve-order="true">
+		<classes>
+			<class name="tests.AdminAlertTest" />
+		</classes>
+	</test>
+
+	<test name="Application Log" preserve-order="true">
+		<classes>
+			<class name="tests.ApplicationLogTest" />
+		</classes>
+	</test>
+
+	<test name="User Test" preserve-order="true">
+		<classes>
+			<class name="tests.Admin_UserTest" />
+		</classes>
+	</test>
+
+	<test name="Enpoint Test" preserve-order="true">
+		<classes>
+			<class name="tests.Admin_Manage_EndpointTest" />
+		</classes>
+	</test>
+</suite>

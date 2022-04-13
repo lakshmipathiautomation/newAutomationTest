@@ -1,0 +1,794 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports1.css" rel="stylesheet" id="ultra" />
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" id="retro" disabled="false"/>
+    <script type="text/javascript" src="jquery.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <button id="button" class="button">Switch Retro Theme</button> <!-- button -->
+      <br/>
+      <span class="top-banner-font-1">1 suite</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" title="Collapse/expand all the suites" class="collapse-all-link">
+          <img src="collapseall.gif" class="collapse-all-icon">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" panel-name="suite-Smoke_Test" class="navigator-link">
+              <span class="suite-name border-passed">Smoke Test</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" panel-name="test-xml-Smoke_Test" class="navigator-link ">
+                    <span>G:\ArexDataRepo\automation\src\test\resources\testRun\smokeTestSuite.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="testlist-Smoke_Test" class="navigator-link ">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="group-Smoke_Test" class="navigator-link ">
+                    <span>1 group</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="times-Smoke_Test" class="navigator-link ">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="reporter-Smoke_Test" class="navigator-link ">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="ignored-methods-Smoke_Test" class="navigator-link ">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="chronological-Smoke_Test" class="navigator-link ">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">17 methods,   17 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-Smoke_Test" class="hide-methods passed suite-Smoke_Test"> (hide)</a> <!-- hide-methods passed suite-Smoke_Test -->
+                      <a href="#" panel-name="suite-Smoke_Test" class="show-methods passed suite-Smoke_Test"> (show)</a> <!-- show-methods passed suite-Smoke_Test -->
+                    </span>
+                    <div class="method-list-content passed suite-Smoke_Test">
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Smoke_Test" title="tests.Admin_Manage_EndpointTest" class="method navigator-link" hash-for-method="testAllButtonFilterExportRefreshArePresentonTopLeftCornerOfEndpointPage">testAllButtonFilterExportRefreshArePresentonTopLeftCornerOfEndpointPage</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Smoke_Test" title="tests.Admin_Manage_EndpointTest" class="method navigator-link" hash-for-method="testUserAbleToFilterByAliasNameWithContainsCondition">testUserAbleToFilterByAliasNameWithContainsCondition</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Smoke_Test" title="tests.Admin_Manage_EndpointTest" class="method navigator-link" hash-for-method="testUserAbleToFilterByAliasNameWithEqualCondition">testUserAbleToFilterByAliasNameWithEqualCondition</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Smoke_Test" title="tests.Admin_Manage_EndpointTest" class="method navigator-link" hash-for-method="testUserAbleToFilterByAliasNameWithStartWithCondition">testUserAbleToFilterByAliasNameWithStartWithCondition</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Smoke_Test" title="tests.Admin_Manage_EndpointTest" class="method navigator-link" hash-for-method="testUserAbleToFilterByLOcalIPWithContainsCondition">testUserAbleToFilterByLOcalIPWithContainsCondition</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Smoke_Test" title="tests.Admin_Manage_EndpointTest" class="method navigator-link" hash-for-method="testUserAbleToFilterByLOcalIPWithEqualsCondition">testUserAbleToFilterByLOcalIPWithEqualsCondition</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Smoke_Test" title="tests.Admin_Manage_EndpointTest" class="method navigator-link" hash-for-method="testUserAbleToFilterByLOcalIPWithStartWithCondition">testUserAbleToFilterByLOcalIPWithStartWithCondition</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Smoke_Test" title="tests.Admin_Manage_EndpointTest" class="method navigator-link" hash-for-method="testUserAbleToFilterByMachineNameWithContainCondition">testUserAbleToFilterByMachineNameWithContainCondition</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Smoke_Test" title="tests.Admin_Manage_EndpointTest" class="method navigator-link" hash-for-method="testUserAbleToFilterByMachineNameWithEqualsCondition">testUserAbleToFilterByMachineNameWithEqualsCondition</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Smoke_Test" title="tests.Admin_Manage_EndpointTest" class="method navigator-link" hash-for-method="testUserAbleToFilterByPublicIPWithContainsCondition">testUserAbleToFilterByPublicIPWithContainsCondition</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Smoke_Test" title="tests.Admin_Manage_EndpointTest" class="method navigator-link" hash-for-method="testUserAbleToFilterByPublicIPWithEqualsCondition">testUserAbleToFilterByPublicIPWithEqualsCondition</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Smoke_Test" title="tests.Admin_Manage_EndpointTest" class="method navigator-link" hash-for-method="testUserAbleToFilterByPublicIPWithStartWithCondition">testUserAbleToFilterByPublicIPWithStartWithCondition</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Smoke_Test" title="tests.Admin_Manage_EndpointTest" class="method navigator-link" hash-for-method="testUserAbleToNaviagateEnpointPage">testUserAbleToNaviagateEnpointPage</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Smoke_Test" title="tests.Admin_Manage_EndpointTest" class="method navigator-link" hash-for-method="testUserAbleToRefreshPageByClickingOnRefreshButton">testUserAbleToRefreshPageByClickingOnRefreshButton</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Smoke_Test" title="tests.Admin_Manage_EndpointTest" class="method navigator-link" hash-for-method="testUserAbleToSortMachineListByClickingOnColumnHeaderName">testUserAbleToSortMachineListByClickingOnColumnHeaderName</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Smoke_Test" title="tests.Admin_Manage_EndpointTest" class="method navigator-link" hash-for-method="testWhenUserClickingOnCancelButtonFilterPouupClosedWithoutFilter">testWhenUserClickingOnCancelButtonFilterPouupClosedWithoutFilter</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Smoke_Test" title="tests.Admin_Manage_EndpointTest" class="method navigator-link" hash-for-method="testWhenUserClickingOnClearButtonFilterValueResetToDefaultValue">testWhenUserClickingOnClearButtonFilterValueResetToDefaultValue</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-Smoke_Test -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-Smoke_Test" class="panel Smoke_Test">
+          <div class="suite-Smoke_Test-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">tests.Admin_Manage_EndpointTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="testAllButtonFilterExportRefreshArePresentonTopLeftCornerOfEndpointPage">
+                  </a> <!-- testAllButtonFilterExportRefreshArePresentonTopLeftCornerOfEndpointPage -->
+                  <span class="method-name">testAllButtonFilterExportRefreshArePresentonTopLeftCornerOfEndpointPage</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="testUserAbleToFilterByAliasNameWithContainsCondition">
+                  </a> <!-- testUserAbleToFilterByAliasNameWithContainsCondition -->
+                  <span class="method-name">testUserAbleToFilterByAliasNameWithContainsCondition</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="testUserAbleToFilterByAliasNameWithEqualCondition">
+                  </a> <!-- testUserAbleToFilterByAliasNameWithEqualCondition -->
+                  <span class="method-name">testUserAbleToFilterByAliasNameWithEqualCondition</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="testUserAbleToFilterByAliasNameWithStartWithCondition">
+                  </a> <!-- testUserAbleToFilterByAliasNameWithStartWithCondition -->
+                  <span class="method-name">testUserAbleToFilterByAliasNameWithStartWithCondition</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="testUserAbleToFilterByLOcalIPWithContainsCondition">
+                  </a> <!-- testUserAbleToFilterByLOcalIPWithContainsCondition -->
+                  <span class="method-name">testUserAbleToFilterByLOcalIPWithContainsCondition</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="testUserAbleToFilterByLOcalIPWithEqualsCondition">
+                  </a> <!-- testUserAbleToFilterByLOcalIPWithEqualsCondition -->
+                  <span class="method-name">testUserAbleToFilterByLOcalIPWithEqualsCondition</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="testUserAbleToFilterByLOcalIPWithStartWithCondition">
+                  </a> <!-- testUserAbleToFilterByLOcalIPWithStartWithCondition -->
+                  <span class="method-name">testUserAbleToFilterByLOcalIPWithStartWithCondition</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="testUserAbleToFilterByMachineNameWithContainCondition">
+                  </a> <!-- testUserAbleToFilterByMachineNameWithContainCondition -->
+                  <span class="method-name">testUserAbleToFilterByMachineNameWithContainCondition</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="testUserAbleToFilterByMachineNameWithEqualsCondition">
+                  </a> <!-- testUserAbleToFilterByMachineNameWithEqualsCondition -->
+                  <span class="method-name">testUserAbleToFilterByMachineNameWithEqualsCondition</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="testUserAbleToFilterByPublicIPWithContainsCondition">
+                  </a> <!-- testUserAbleToFilterByPublicIPWithContainsCondition -->
+                  <span class="method-name">testUserAbleToFilterByPublicIPWithContainsCondition</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="testUserAbleToFilterByPublicIPWithEqualsCondition">
+                  </a> <!-- testUserAbleToFilterByPublicIPWithEqualsCondition -->
+                  <span class="method-name">testUserAbleToFilterByPublicIPWithEqualsCondition</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="testUserAbleToFilterByPublicIPWithStartWithCondition">
+                  </a> <!-- testUserAbleToFilterByPublicIPWithStartWithCondition -->
+                  <span class="method-name">testUserAbleToFilterByPublicIPWithStartWithCondition</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="testUserAbleToNaviagateEnpointPage">
+                  </a> <!-- testUserAbleToNaviagateEnpointPage -->
+                  <span class="method-name">testUserAbleToNaviagateEnpointPage</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="testUserAbleToRefreshPageByClickingOnRefreshButton">
+                  </a> <!-- testUserAbleToRefreshPageByClickingOnRefreshButton -->
+                  <span class="method-name">testUserAbleToRefreshPageByClickingOnRefreshButton</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="testUserAbleToSortMachineListByClickingOnColumnHeaderName">
+                  </a> <!-- testUserAbleToSortMachineListByClickingOnColumnHeaderName -->
+                  <span class="method-name">testUserAbleToSortMachineListByClickingOnColumnHeaderName</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="testWhenUserClickingOnCancelButtonFilterPouupClosedWithoutFilter">
+                  </a> <!-- testWhenUserClickingOnCancelButtonFilterPouupClosedWithoutFilter -->
+                  <span class="method-name">testWhenUserClickingOnCancelButtonFilterPouupClosedWithoutFilter</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="testWhenUserClickingOnClearButtonFilterValueResetToDefaultValue">
+                  </a> <!-- testWhenUserClickingOnClearButtonFilterValueResetToDefaultValue -->
+                  <span class="method-name">testWhenUserClickingOnClearButtonFilterValueResetToDefaultValue</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Smoke_Test-class-passed -->
+        </div> <!-- panel Smoke_Test -->
+        <div panel-name="test-xml-Smoke_Test" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">G:\ArexDataRepo\automation\src\test\resources\testRun\smokeTestSuite.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite thread-count=&quot;1&quot; parallel=&quot;tests&quot; name=&quot;Smoke Test&quot; guice-stage=&quot;DEVELOPMENT&quot;&gt;
+  &lt;listeners&gt;
+    &lt;listener class-name=&quot;utility.TestNGCustomReportListener&quot;/&gt;
+  &lt;/listeners&gt;
+  &lt;test thread-count=&quot;1&quot; parallel=&quot;tests&quot; name=&quot;Enpoint Test&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;tests.Admin_Manage_EndpointTest&quot;&gt;
+        &lt;methods&gt;
+          &lt;include name=&quot;testUserAbleToNaviagateEnpointPage&quot;/&gt;
+          &lt;include name=&quot;testAllButtonFilterExportRefreshArePresentonTopLeftCornerOfEndpointPage&quot;/&gt;
+          &lt;include name=&quot;testUserAbleToSortMachineListByClickingOnColumnHeaderName&quot;/&gt;
+          &lt;include name=&quot;testUserAbleToRefreshPageByClickingOnRefreshButton&quot;/&gt;
+          &lt;include name=&quot;testUserAbleToFilterByMachineNameWithContainCondition&quot;/&gt;
+          &lt;include name=&quot;testUserAbleToFilterByMachineNameWithEqualsCondition&quot;/&gt;
+          &lt;include name=&quot;testUserAbleToFilterByMachineNameWithStartWithCondition&quot;/&gt;
+          &lt;include name=&quot;testUserAbleToFilterByAliasNameWithContainsCondition&quot;/&gt;
+          &lt;include name=&quot;testUserAbleToFilterByAliasNameWithEqualCondition&quot;/&gt;
+          &lt;include name=&quot;testUserAbleToFilterByAliasNameWithStartWithCondition&quot;/&gt;
+          &lt;include name=&quot;testUserAbleToFilterByLOcalIPWithContainsCondition&quot;/&gt;
+          &lt;include name=&quot;testUserAbleToFilterByLOcalIPWithEqualsCondition&quot;/&gt;
+          &lt;include name=&quot;testUserAbleToFilterByLOcalIPWithStartWithCondition&quot;/&gt;
+          &lt;include name=&quot;testUserAbleToFilterByPublicIPWithContainsCondition&quot;/&gt;
+          &lt;include name=&quot;testUserAbleToFilterByPublicIPWithEqualsCondition&quot;/&gt;
+          &lt;include name=&quot;testUserAbleToFilterByPublicIPWithStartWithCondition&quot;/&gt;
+          &lt;include name=&quot;testWhenUserClickingOnCancelButtonFilterPouupClosedWithoutFilter&quot;/&gt;
+          &lt;include name=&quot;testWhenUserClickingOnClearButtonFilterValueResetToDefaultValue&quot;/&gt;
+        &lt;/methods&gt;
+      &lt;/class&gt; &lt;!-- tests.Admin_Manage_EndpointTest --&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- Enpoint Test --&gt;
+&lt;/suite&gt; &lt;!-- Smoke Test --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-Smoke_Test" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for Smoke Test</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">Enpoint Test (1 class)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-Smoke_Test" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for Smoke Test</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="test-group">
+              <span class="test-group-name">Regression</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">testAllButtonFilterExportRefreshArePresentonTopLeftCornerOfEndpointPage</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">testUserAbleToFilterByAliasNameWithContainsCondition</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">testUserAbleToFilterByAliasNameWithEqualCondition</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">testUserAbleToFilterByAliasNameWithStartWithCondition</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">testUserAbleToFilterByLOcalIPWithContainsCondition</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">testUserAbleToFilterByLOcalIPWithEqualsCondition</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">testUserAbleToFilterByLOcalIPWithStartWithCondition</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">testUserAbleToFilterByMachineNameWithContainCondition</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">testUserAbleToFilterByMachineNameWithEqualsCondition</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">testUserAbleToFilterByPublicIPWithContainsCondition</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">testUserAbleToFilterByPublicIPWithEqualsCondition</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">testUserAbleToFilterByPublicIPWithStartWithCondition</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">testUserAbleToNaviagateEnpointPage</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">testUserAbleToRefreshPageByClickingOnRefreshButton</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">testUserAbleToSortMachineListByClickingOnColumnHeaderName</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">testWhenUserClickingOnCancelButtonFilterPouupClosedWithoutFilter</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">testWhenUserClickingOnClearButtonFilterValueResetToDefaultValue</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-Smoke_Test" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for Smoke Test</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_Smoke_Test');
+function tableData_Smoke_Test() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(17);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'testUserAbleToFilterByAliasNameWithEqualCondition')
+data.setCell(0, 2, 'tests.Admin_Manage_EndpointTest')
+data.setCell(0, 3, 42319);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'testUserAbleToFilterByPublicIPWithContainsCondition')
+data.setCell(1, 2, 'tests.Admin_Manage_EndpointTest')
+data.setCell(1, 3, 42249);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'testUserAbleToFilterByMachineNameWithContainCondition')
+data.setCell(2, 2, 'tests.Admin_Manage_EndpointTest')
+data.setCell(2, 3, 42160);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'testUserAbleToFilterByLOcalIPWithContainsCondition')
+data.setCell(3, 2, 'tests.Admin_Manage_EndpointTest')
+data.setCell(3, 3, 42026);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'testUserAbleToFilterByLOcalIPWithEqualsCondition')
+data.setCell(4, 2, 'tests.Admin_Manage_EndpointTest')
+data.setCell(4, 3, 42019);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'testUserAbleToFilterByPublicIPWithStartWithCondition')
+data.setCell(5, 2, 'tests.Admin_Manage_EndpointTest')
+data.setCell(5, 3, 41953);
+data.setCell(6, 0, 6)
+data.setCell(6, 1, 'testUserAbleToFilterByAliasNameWithContainsCondition')
+data.setCell(6, 2, 'tests.Admin_Manage_EndpointTest')
+data.setCell(6, 3, 41850);
+data.setCell(7, 0, 7)
+data.setCell(7, 1, 'testUserAbleToFilterByAliasNameWithStartWithCondition')
+data.setCell(7, 2, 'tests.Admin_Manage_EndpointTest')
+data.setCell(7, 3, 41798);
+data.setCell(8, 0, 8)
+data.setCell(8, 1, 'testUserAbleToFilterByPublicIPWithEqualsCondition')
+data.setCell(8, 2, 'tests.Admin_Manage_EndpointTest')
+data.setCell(8, 3, 41782);
+data.setCell(9, 0, 9)
+data.setCell(9, 1, 'testUserAbleToFilterByLOcalIPWithStartWithCondition')
+data.setCell(9, 2, 'tests.Admin_Manage_EndpointTest')
+data.setCell(9, 3, 41710);
+data.setCell(10, 0, 10)
+data.setCell(10, 1, 'testUserAbleToFilterByMachineNameWithEqualsCondition')
+data.setCell(10, 2, 'tests.Admin_Manage_EndpointTest')
+data.setCell(10, 3, 41637);
+data.setCell(11, 0, 11)
+data.setCell(11, 1, 'testWhenUserClickingOnClearButtonFilterValueResetToDefaultValue')
+data.setCell(11, 2, 'tests.Admin_Manage_EndpointTest')
+data.setCell(11, 3, 37406);
+data.setCell(12, 0, 12)
+data.setCell(12, 1, 'testWhenUserClickingOnCancelButtonFilterPouupClosedWithoutFilter')
+data.setCell(12, 2, 'tests.Admin_Manage_EndpointTest')
+data.setCell(12, 3, 33182);
+data.setCell(13, 0, 13)
+data.setCell(13, 1, 'testUserAbleToSortMachineListByClickingOnColumnHeaderName')
+data.setCell(13, 2, 'tests.Admin_Manage_EndpointTest')
+data.setCell(13, 3, 19695);
+data.setCell(14, 0, 14)
+data.setCell(14, 1, 'testUserAbleToRefreshPageByClickingOnRefreshButton')
+data.setCell(14, 2, 'tests.Admin_Manage_EndpointTest')
+data.setCell(14, 3, 19427);
+data.setCell(15, 0, 15)
+data.setCell(15, 1, 'testAllButtonFilterExportRefreshArePresentonTopLeftCornerOfEndpointPage')
+data.setCell(15, 2, 'tests.Admin_Manage_EndpointTest')
+data.setCell(15, 3, 16013);
+data.setCell(16, 0, 16)
+data.setCell(16, 1, 'testUserAbleToNaviagateEnpointPage')
+data.setCell(16, 2, 'tests.Admin_Manage_EndpointTest')
+data.setCell(16, 3, 15455);
+window.suiteTableData['Smoke_Test']= { tableData: data, tableDiv: 'times-div-Smoke_Test'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 20 minutes</span>
+              <div id="times-div-Smoke_Test">
+              </div> <!-- times-div-Smoke_Test -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-Smoke_Test" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for Smoke Test</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-Smoke_Test" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">1 ignored method</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">tests.Admin_Manage_EndpointTest</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">testAllColumnHeaderNameShouldBeInDisplayInSameorderOfEndpointPage</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-Smoke_Test" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">tests.Admin_Manage_EndpointTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">initForAppLog</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">testAllButtonFilterExportRefreshArePresentonTopLeftCornerOfEndpointPage</span>
+                <span class="method-start">35418 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">closeBrowser</span>
+                <span class="method-start">53623 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">initForAppLog</span>
+                <span class="method-start">54300 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">testUserAbleToFilterByAliasNameWithContainsCondition</span>
+                <span class="method-start">87880 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">closeBrowser</span>
+                <span class="method-start">131421 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">initForAppLog</span>
+                <span class="method-start">132043 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">testUserAbleToFilterByAliasNameWithEqualCondition</span>
+                <span class="method-start">164655 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">closeBrowser</span>
+                <span class="method-start">208296 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">initForAppLog</span>
+                <span class="method-start">208939 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">testUserAbleToFilterByAliasNameWithStartWithCondition</span>
+                <span class="method-start">242883 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">closeBrowser</span>
+                <span class="method-start">286045 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">initForAppLog</span>
+                <span class="method-start">286650 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">testUserAbleToFilterByLOcalIPWithContainsCondition</span>
+                <span class="method-start">319153 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">closeBrowser</span>
+                <span class="method-start">362960 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">initForAppLog</span>
+                <span class="method-start">363577 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">testUserAbleToFilterByLOcalIPWithEqualsCondition</span>
+                <span class="method-start">395832 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">closeBrowser</span>
+                <span class="method-start">439188 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">initForAppLog</span>
+                <span class="method-start">439802 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">testUserAbleToFilterByLOcalIPWithStartWithCondition</span>
+                <span class="method-start">472161 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">closeBrowser</span>
+                <span class="method-start">515557 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">initForAppLog</span>
+                <span class="method-start">516173 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">testUserAbleToFilterByMachineNameWithContainCondition</span>
+                <span class="method-start">548579 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">closeBrowser</span>
+                <span class="method-start">592083 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">initForAppLog</span>
+                <span class="method-start">592688 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">testUserAbleToFilterByMachineNameWithEqualsCondition</span>
+                <span class="method-start">626891 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">closeBrowser</span>
+                <span class="method-start">670169 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">initForAppLog</span>
+                <span class="method-start">670787 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">testUserAbleToFilterByPublicIPWithContainsCondition</span>
+                <span class="method-start">703296 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">closeBrowser</span>
+                <span class="method-start">747186 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">initForAppLog</span>
+                <span class="method-start">747798 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">testUserAbleToFilterByPublicIPWithEqualsCondition</span>
+                <span class="method-start">780617 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">closeBrowser</span>
+                <span class="method-start">823923 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">initForAppLog</span>
+                <span class="method-start">824590 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">testUserAbleToFilterByPublicIPWithStartWithCondition</span>
+                <span class="method-start">861378 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">closeBrowser</span>
+                <span class="method-start">904837 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">initForAppLog</span>
+                <span class="method-start">905450 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">testUserAbleToNaviagateEnpointPage</span>
+                <span class="method-start">938867 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">closeBrowser</span>
+                <span class="method-start">955599 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">initForAppLog</span>
+                <span class="method-start">956441 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">testUserAbleToRefreshPageByClickingOnRefreshButton</span>
+                <span class="method-start">989456 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">closeBrowser</span>
+                <span class="method-start">1010535 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">initForAppLog</span>
+                <span class="method-start">1011360 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">testUserAbleToSortMachineListByClickingOnColumnHeaderName</span>
+                <span class="method-start">1044111 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">closeBrowser</span>
+                <span class="method-start">1065215 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">initForAppLog</span>
+                <span class="method-start">1065776 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">testWhenUserClickingOnCancelButtonFilterPouupClosedWithoutFilter</span>
+                <span class="method-start">1098414 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">closeBrowser</span>
+                <span class="method-start">1133254 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">initForAppLog</span>
+                <span class="method-start">1133851 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">testWhenUserClickingOnClearButtonFilterValueResetToDefaultValue</span>
+                <span class="method-start">1168385 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">closeBrowser</span>
+                <span class="method-start">1207062 ms</span>
+              </div> <!-- configuration-method after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+<script type="text/javascript" src="testng-reports2.js"></script>
+</html>
