@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose="0" name="Failed suite [Smoke Test]" parallel="tests">
+  <listeners>
+    <listener class-name="utility.TestNGCustomReportListener"/>
+  </listeners>
+  <test thread-count="1" verbose="0" name="Admin Alert Test(failed)" parallel="tests">
+    <groups>
+      <run>
+        <include name="SmokeTest"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="tests.AdminAlertTest">
+        <methods>
+          <include name="testActivityLessthanXhoursInfoAlertCreated"/>
+          <include name="initForAlerts"/>
+          <include name="closeBrowser"/>
+          <include name="testActivityLessthanXhoursCriticalAlertCreated"/>
+          <include name="testActivityLessthanXhoursWarningAlertCreated"/>
+        </methods>
+      </class> <!-- tests.AdminAlertTest -->
+    </classes>
+  </test> <!-- Admin Alert Test(failed) -->
+  <test thread-count="1" verbose="0" name="Application Log(failed)" parallel="tests">
+    <groups>
+      <run>
+        <include name="SmokeTest"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="tests.ApplicationLogTest">
+        <methods>
+          <include name="initForAppLog"/>
+          <include name="closeBrowser"/>
+          <include name="testApplicationLogIsCreatedForAlertCreated"/>
+        </methods>
+      </class> <!-- tests.ApplicationLogTest -->
+    </classes>
+  </test> <!-- Application Log(failed) -->
+</suite> <!-- Failed suite [Smoke Test] -->

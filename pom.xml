@@ -8,7 +8,40 @@
 	<artifactId>ArexData</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ArexData</name>
-
+	
+	<profiles>
+	
+	<profile>
+	<id>SmokeTestSuite</id>
+	<activation>
+	<activeByDefault>false</activeByDefault>
+	</activation>
+	<properties>
+	<suit.name>testRun\SmokeTestSuite.xml</suit.name>
+	</properties>
+	</profile>
+	
+	<profile>
+	<id>RegressionTestSuite</id>
+	<activation>
+	<activeByDefault>false</activeByDefault>
+	</activation>
+	<properties>
+	<suit.name>testRun\RegressionTestSuite.xml</suit.name>
+	</properties>
+	</profile>
+	
+	<profile>
+	<id>FunctionalTestSuite</id>
+	<activation>
+	<activeByDefault>false</activeByDefault>
+	</activation>
+	<properties>
+	<suit.name>testRun\FunctionalTestSuite0.xml</suit.name>
+	</properties>
+	</profile>
+	
+	</profiles>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<java.version>1.8</java.version>
